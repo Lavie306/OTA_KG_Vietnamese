@@ -1,0 +1,4200 @@
+== 1 ==
+dị ứng
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 2 ==
+không thể phân biệt được
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 3 ==
+ngứa
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 4 ==
+có thể kiểm chứng
+Tag: Tích cực loại 1
+po1
+po1
+
+== 5 ==
+phản công
+Tag: Tích cực loại 1
+po1
+po1
+
+== 6 ==
+bỏ học
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 7 ==
+không đều đặn
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 8 ==
+kỳ lạ
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 9 ==
+vô điều kiện
+Tag: Tích cực loại 1
+po1
+po1
+
+== 10 ==
+ăn da
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 11 ==
+mire
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 12 ==
+kẻ gây rối
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 13 ==
+có tay nghề cao
+Tag: Tích cực loại 2
+po2
+po2
+
+== 14 ==
+ấn tượng
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 15 ==
+cúi xuống
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 16 ==
+xói mòn
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 17 ==
+thiêu đốt
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 18 ==
+vẫy gọi
+Tag: Tích cực loại 1
+po1
+po1
+
+== 19 ==
+biến thái
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 20 ==
+đầm lầy
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 21 ==
+phung phí
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 22 ==
+kh răn đe
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 23 ==
+kẻ áp bức
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 24 ==
+trơ trẽn
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 25 ==
+độc quyền
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 26 ==
+phản diện
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 27 ==
+ngứa ran
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 28 ==
+ra lệnh
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 29 ==
+vô ơn
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 30 ==
+bashed
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 31 ==
+không hoàn hảo
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 32 ==
+kẻ bần cùng
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 33 ==
+tranh chấp
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 34 ==
+chế nhạo
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 35 ==
+phản cảm
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 36 ==
+đi chệch hướng
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 37 ==
+trò hề
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 38 ==
+xua đuổi
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 39 ==
+ốm yếu
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 40 ==
+cảm động
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 41 ==
+bướm ga
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 42 ==
+cao quý
+Tag: Tích cực loại 2
+po2
+po2
+
+== 43 ==
+thần đồng
+Tag: Tích cực loại 2
+po2
+po2
+
+== 44 ==
+rùng mình
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 45 ==
+gắt gỏng
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 46 ==
+tán tỉnh
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 47 ==
+lang thang
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 48 ==
+mài mòn
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 49 ==
+chất lượng hàng đầu
+Tag: Tích cực loại 2
+po2
+po2
+
+== 50 ==
+phồng rộp
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 51 ==
+bán thân
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 52 ==
+trao quyền
+Tag: Tích cực loại 2
+po2
+po2
+
+== 53 ==
+kẻ chạy trốn
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 54 ==
+dễ dàng nhất
+Tag: Tích cực loại 2
+po2
+po2
+
+== 55 ==
+bedlamite
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 56 ==
+không tin tưởng
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 57 ==
+phỉ báng
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 58 ==
+không công bằng
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 59 ==
+bất đồng quan điểm
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 60 ==
+làm sai lệch
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 61 ==
+béo
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 62 ==
+điên cuồng
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 63 ==
+vô giá trị
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 64 ==
+sạch nhất
+Tag: Tích cực loại 2
+po2
+po2
+
+== 65 ==
+đánh đập
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 66 ==
+lây nhiễm
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 67 ==
+tử tế
+Tag: Tích cực loại 2
+po2
+po2
+
+== 68 ==
+sinh lợi
+Tag: Tích cực loại 2
+po2
+po2
+
+== 69 ==
+bất công
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 70 ==
+thiên thần
+Tag: Tích cực loại 2
+po2
+po2
+
+== 71 ==
+điên quá
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 72 ==
+vết mòn
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 73 ==
+ổn định
+Tag: Tích cực loại 1
+po1
+po1
+
+== 74 ==
+vui mừng
+Tag: Tích cực loại 2
+po2
+po2
+
+== 75 ==
+goon
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 76 ==
+lễ hội
+Tag: Tích cực loại 2
+po2
+po2
+
+== 77 ==
+thẳng
+Tag: Tích cực loại 2
+po2
+po2
+
+== 78 ==
+battering
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 79 ==
+làm bối rối
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 80 ==
+có động lực
+Tag: Tích cực loại 2
+po2
+po2
+
+== 81 ==
+bậc thầy
+Tag: Tích cực loại 1
+po1
+po1
+
+== 82 ==
+giải phóng
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 83 ==
+thô
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 84 ==
+âm thầm
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 85 ==
+ca tụng
+Tag: Tích cực loại 1
+po1
+po1
+
+== 86 ==
+bị ruồng bỏ
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 87 ==
+ca rô
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 88 ==
+hòa giải
+Tag: Tích cực loại 2
+po2
+po2
+
+== 89 ==
+giết mổ
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 90 ==
+ăn cắp
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 91 ==
+tốt bụng
+Tag: Tích cực loại 2
+po2
+po2
+
+== 92 ==
+thủ phạm
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 93 ==
+sâu sắc
+Tag: Tích cực loại 1
+po1
+po1
+
+== 94 ==
+xuống sắc
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 95 ==
+xác tàu
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 96 ==
+ma quái
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 97 ==
+chu đáo
+Tag: Tích cực loại 1
+po1
+po1
+
+== 98 ==
+gièm pha
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 99 ==
+cứng nhắc
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 100 ==
+chuyên chế
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 101 ==
+anh hùng
+Tag: Tích cực loại 2
+po2
+po2
+
+== 102 ==
+elan
+Tag: Tích cực loại 2
+po2
+po2
+
+== 103 ==
+ngu dốt
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 104 ==
+kiềm chế
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 105 ==
+nổi
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 106 ==
+thân thiện
+Tag: Tích cực loại 1
+po1
+po1
+
+== 107 ==
+xâm phạm
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 108 ==
+doom
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 109 ==
+rủi ro
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 110 ==
+hào hiệp
+Tag: Tích cực loại 1
+po1
+po1
+
+== 111 ==
+không lành mạnh
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 112 ==
+không thể giải quyết
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 113 ==
+thảm khốc
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 114 ==
+tích cực
+Tag: Tích cực loại 1
+po1
+po1
+
+== 115 ==
+phụ nữ hóa
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 116 ==
+hai  phải đối mặt
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 117 ==
+phê duyệt
+Tag: Tích cực loại 1
+po1
+po1
+
+== 118 ==
+thỏa đáng
+Tag: Tích cực loại 2
+po2
+po2
+
+== 119 ==
+được chúa ban cho
+Tag: Tích cực loại 2
+po2
+po2
+
+== 120 ==
+nôn
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 121 ==
+không đúng mực
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 122 ==
+gia đình trị
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 123 ==
+phong phú
+Tag: Tích cực loại 1
+po1
+po1
+
+== 124 ==
+galore
+Tag: Tích cực loại 1
+po1
+po1
+
+== 125 ==
+đáng nghi ngờ
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 126 ==
+không chính xác
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 127 ==
+áo khoác đường
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 128 ==
+phan thuong
+Tag: Tích cực loại 2
+po2
+po2
+
+== 129 ==
+geeky
+Tag: Tích cực loại 2
+po2
+po2
+
+== 130 ==
+phủ nhận
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 131 ==
+thuyết phục
+Tag: Tích cực loại 1
+po1
+po1
+
+== 132 ==
+thích hợp
+Tag: Tích cực loại 1
+po1
+po1
+
+== 133 ==
+lồn
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 134 ==
+ân nhân
+Tag: Tích cực loại 1
+po1
+po1
+
+== 135 ==
+hối lộ
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 136 ==
+giả dối
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 137 ==
+tối hậu thư
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 138 ==
+hết lòng
+Tag: Tích cực loại 2
+po2
+po2
+
+== 139 ==
+kinh hãi
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 140 ==
+cay
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 141 ==
+thất bại
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 142 ==
+bất tuân
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 143 ==
+phát ban
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 144 ==
+đèn nền tốt
+Tag: Tích cực loại 1
+po1
+po1
+
+== 145 ==
+dấn thân
+Tag: Tích cực loại 2
+po2
+po2
+
+== 146 ==
+đe dọa
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 147 ==
+phản đối
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 148 ==
+nhà vô địch
+Tag: Tích cực loại 2
+po2
+po2
+
+== 149 ==
+sang trọng
+Tag: Tích cực loại 2
+po2
+po2
+
+== 150 ==
+khốn khổ
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 151 ==
+gục tối
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 152 ==
+vô song
+Tag: Tích cực loại 2
+po2
+po2
+
+== 153 ==
+chia tay
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 154 ==
+chưa trưởng thành
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 155 ==
+thiếu thốn
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 156 ==
+không quyết đoán
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 157 ==
+không phức tạp
+Tag: Tích cực loại 1
+po1
+po1
+
+== 158 ==
+hoàn tác
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 159 ==
+phiêu lưu
+Tag: Tích cực loại 2
+po2
+po2
+
+== 160 ==
+sẹo
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 161 ==
+nhờn
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 162 ==
+disabled
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 163 ==
+không muốn
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 164 ==
+bullyingly
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 165 ==
+ấm lòng
+Tag: Tích cực loại 1
+po1
+po1
+
+== 166 ==
+mắng mỏ
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 167 ==
+chìm đắm
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 168 ==
+khủng khiếp
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 169 ==
+phân cực
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 170 ==
+tung tóe
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 171 ==
+tiết kiệm chi phí
+Tag: Tích cực loại 2
+po2
+po2
+
+== 172 ==
+nghèo nàn
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 173 ==
+lý tưởng hóa
+Tag: Tích cực loại 1
+po1
+po1
+
+== 174 ==
+tan rã
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 175 ==
+violator
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 176 ==
+đáng kinh ngạc
+Tag: Tích cực loại 1
+po1
+po1
+
+== 177 ==
+đau lòng
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 178 ==
+thành công
+Tag: Tích cực loại 1
+po1
+po1
+
+== 179 ==
+nghiêm trọng
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 180 ==
+dilly dally
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 181 ==
+khêu gợi
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 182 ==
+có thể sử dụng
+Tag: Tích cực loại 2
+po2
+po2
+
+== 183 ==
+làm mất giá trị
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 184 ==
+tác hại
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 185 ==
+xấc xược
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 186 ==
+làm đẹp
+Tag: Tích cực loại 2
+po2
+po2
+
+== 187 ==
+thiếu tôn trọng
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 188 ==
+chống chúng ta
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 189 ==
+có ý kiến
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 190 ==
+lễ kỷ niệm
+Tag: Tích cực loại 1
+po1
+po1
+
+== 191 ==
+không tin
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 192 ==
+đắt
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 193 ==
+cấp tiến
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 194 ==
+ngáp
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 195 ==
+không có vấn đề
+Tag: Tích cực loại 1
+po1
+po1
+
+== 196 ==
+loạn thần kinh
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 197 ==
+giá thấp
+Tag: Tích cực loại 1
+po1
+po1
+
+== 198 ==
+rò rỉ
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 199 ==
+đơn cực
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 200 ==
+trump
+Tag: Tích cực loại 1
+po1
+po1
+
+== 201 ==
+chán
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 202 ==
+thoái hóa
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 203 ==
+craps
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 204 ==
+run rẩy
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 205 ==
+cảnh đẹp
+Tag: Tích cực loại 1
+po1
+po1
+
+== 206 ==
+thất bại
+Tag: Tích cực loại 1
+po1
+po1
+
+== 207 ==
+hàng đầu
+Tag: Tích cực loại 2
+po2
+po2
+
+== 208 ==
+rẻ nhất
+Tag: Tích cực loại 1
+po1
+po1
+
+== 209 ==
+người biện hộ
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 210 ==
+quá sợ hãi
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 211 ==
+sống động
+Tag: Tích cực loại 2
+po2
+po2
+
+== 212 ==
+xuống dốc
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 213 ==
+đơn giản nhất
+Tag: Tích cực loại 2
+po2
+po2
+
+== 214 ==
+phẳng
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 215 ==
+dài dòng
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 216 ==
+lắp bắp
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 217 ==
+không thành công
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 218 ==
+chiến thắng
+Tag: Tích cực loại 2
+po2
+po2
+
+== 219 ==
+bị cản trở
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 220 ==
+không thể biện minh được
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 221 ==
+xúc xắc
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 222 ==
+dẫn đầu
+Tag: Tích cực loại 2
+po2
+po2
+
+== 223 ==
+hỏi
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 224 ==
+nhấn mạnh quá mức
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 225 ==
+siêu
+Tag: Tích cực loại 2
+po2
+po2
+
+== 226 ==
+hoành tráng
+Tag: Tích cực loại 1
+po1
+po1
+
+== 227 ==
+dũng cảm
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 228 ==
+nghĩ xấu
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 229 ==
+zap
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 230 ==
+có thể quản lý được
+Tag: Tích cực loại 1
+po1
+po1
+
+== 231 ==
+wrought
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 232 ==
+kẻ bao vây
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 233 ==
+an ủi
+Tag: Tích cực loại 1
+po1
+po1
+
+== 234 ==
+trầy xước
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 235 ==
+yay
+Tag: Tích cực loại 2
+po2
+po2
+
+== 236 ==
+spellbind
+Tag: Tích cực loại 2
+po2
+po2
+
+== 237 ==
+soi mói
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 238 ==
+bị vứt vào thùng rác
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 239 ==
+đơn giản
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 240 ==
+nhỏ mọn
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 241 ==
+nguy hiểm
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 242 ==
+khiêm tốn
+Tag: Tích cực loại 2
+po2
+po2
+
+== 243 ==
+khinh bỉ
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 244 ==
+siêu thực
+Tag: Tích cực loại 2
+po2
+po2
+
+== 245 ==
+cứu tinh
+Tag: Tích cực loại 2
+po2
+po2
+
+== 246 ==
+lừa gạt
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 247 ==
+nghèo nàn
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 248 ==
+khan hiếm
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 249 ==
+hỏng
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 250 ==
+sự khéo léo
+Tag: Tích cực loại 2
+po2
+po2
+
+== 251 ==
+phản bội
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 252 ==
+khinh bỉ
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 253 ==
+gained
+Tag: Tích cực loại 2
+po2
+po2
+
+== 254 ==
+không liên quan
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 255 ==
+vu khống
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 256 ==
+ma quỷ
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 257 ==
+testily
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 258 ==
+quái vật
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 259 ==
+chậm tiến
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 260 ==
+lời nói lắp bắp
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 261 ==
+mờ
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 262 ==
+không thể hiểu được
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 263 ==
+vết nứt
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 264 ==
+chắc chắn hơn
+Tag: Tích cực loại 1
+po1
+po1
+
+== 265 ==
+ngớ ngẩn
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 266 ==
+một cách mơ hồ
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 267 ==
+thiên tài
+Tag: Tích cực loại 1
+po1
+po1
+
+== 268 ==
+vấn đề
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 269 ==
+có trách nhiệm
+Tag: Tích cực loại 1
+po1
+po1
+
+== 270 ==
+chuộc lỗi
+Tag: Tích cực loại 1
+po1
+po1
+
+== 271 ==
+toàn cảnh
+Tag: Tích cực loại 2
+po2
+po2
+
+== 272 ==
+d*mn
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 273 ==
+mất cân bằng
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 274 ==
+tự trọng
+Tag: Tích cực loại 1
+po1
+po1
+
+== 275 ==
+không bị trừng phạt
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 276 ==
+bình minh
+Tag: Tích cực loại 2
+po2
+po2
+
+== 277 ==
+bị hư hỏng
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 278 ==
+không hạn chế
+Tag: Tích cực loại 1
+po1
+po1
+
+== 279 ==
+bóng bẩy
+Tag: Tích cực loại 1
+po1
+po1
+
+== 280 ==
+ba người
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 281 ==
+rõ ràng
+Tag: Tích cực loại 2
+po2
+po2
+
+== 282 ==
+khó khăn
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 283 ==
+tấn công dữ dội
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 284 ==
+sụt giảm
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 285 ==
+ganh tị
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 286 ==
+nụ cười
+Tag: Tích cực loại 2
+po2
+po2
+
+== 287 ==
+nhạt nhẽo
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 288 ==
+phúc lợi
+Tag: Tích cực loại 2
+po2
+po2
+
+== 289 ==
+xói mòn
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 290 ==
+lắp đặt
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 291 ==
+thông thạo
+Tag: Tích cực loại 1
+po1
+po1
+
+== 292 ==
+yêu mến
+Tag: Tích cực loại 2
+po2
+po2
+
+== 293 ==
+rõ ràng
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 294 ==
+sương giá
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 295 ==
+không chắc chắn
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 296 ==
+sắc bén
+Tag: Tích cực loại 1
+po1
+po1
+
+== 297 ==
+ma quái nhất
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 298 ==
+thương vong
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 299 ==
+không tinh vi
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 300 ==
+ưu điểm
+Tag: Tích cực loại 1
+po1
+po1
+
+== 301 ==
+đồng cảm
+Tag: Tích cực loại 2
+po2
+po2
+
+== 302 ==
+mơ hồ
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 303 ==
+sự thiếu sót
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 304 ==
+làm mới
+Tag: Tích cực loại 2
+po2
+po2
+
+== 305 ==
+làm giàu
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 306 ==
+trình bày sai
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 307 ==
+kết nối tốt
+Tag: Tích cực loại 1
+po1
+po1
+
+== 308 ==
+vẻ đẹp
+Tag: Tích cực loại 2
+po2
+po2
+
+== 309 ==
+không dễ dàng
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 310 ==
+ngôi sao nhạc rock
+Tag: Tích cực loại 1
+po1
+po1
+
+== 311 ==
+có hạt
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 312 ==
+nông cạn
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 313 ==
+vô duyên
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 314 ==
+kích động
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 315 ==
+sự quyết tâm
+Tag: Tích cực loại 1
+po1
+po1
+
+== 316 ==
+không khỏe
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 317 ==
+không ổn định
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 318 ==
+đau buồn
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 319 ==
+thần tượng
+Tag: Tích cực loại 1
+po1
+po1
+
+== 320 ==
+bí ẩn
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 321 ==
+hung hăng
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 322 ==
+vi phạm pháp luật
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 323 ==
+máy bay không người lái
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 324 ==
+thô lỗ
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 325 ==
+vĩ đại nhất
+Tag: Tích cực loại 2
+po2
+po2
+
+== 326 ==
+không quan tâm
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 327 ==
+xảy ra
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 328 ==
+rách rưới
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 329 ==
+thách thức
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 330 ==
+bỏ chạy
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 331 ==
+backward
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 332 ==
+daze
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 333 ==
+rác rưởi
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 334 ==
+không đáng kể
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 335 ==
+dirtbag
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 336 ==
+không tồn tại
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 337 ==
+chia tay
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 338 ==
+áp bức
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 339 ==
+lambast
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 340 ==
+khởi sắc
+Tag: Tích cực loại 1
+po1
+po1
+
+== 341 ==
+điều cấm kỵ
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 342 ==
+tống tiền
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 343 ==
+ốm
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 344 ==
+đối kháng
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 345 ==
+thực sự
+Tag: Tích cực loại 1
+po1
+po1
+
+== 346 ==
+anh
+Tag: Tích cực loại 1
+po1
+po1
+
+== 347 ==
+không thể hiểu được
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 348 ==
+killed
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 349 ==
+chủ nghĩa cơ bản
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 350 ==
+kẻ ghét
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 351 ==
+không nghi ngờ gì
+Tag: Tích cực loại 1
+po1
+po1
+
+== 352 ==
+mawkishness
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 353 ==
+hợm hĩnh
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 354 ==
+không thể sử dụng được
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 355 ==
+gây hấn
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 356 ==
+tùy tiện
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 357 ==
+trêu ngươi
+Tag: Tích cực loại 2
+po2
+po2
+
+== 358 ==
+cổ xưa
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 359 ==
+tước quyền sở hữu
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 360 ==
+hùng hồn
+Tag: Tích cực loại 2
+po2
+po2
+
+== 361 ==
+thổi hồn
+Tag: Tích cực loại 1
+po1
+po1
+
+== 362 ==
+ung thư
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 363 ==
+ngông cuồng
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 364 ==
+tối cao
+Tag: Tích cực loại 2
+po2
+po2
+
+== 365 ==
+xẻ xéo
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 366 ==
+điên
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 367 ==
+leech
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 368 ==
+chướng mắt
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 369 ==
+thuận tiện
+Tag: Tích cực loại 1
+po1
+po1
+
+== 370 ==
+sốc
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 371 ==
+đủ tiêu chuẩn
+Tag: Tích cực loại 1
+po1
+po1
+
+== 372 ==
+hợp pháp
+Tag: Tích cực loại 2
+po2
+po2
+
+== 373 ==
+tái phát
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 374 ==
+thiếu quyết đoán
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 375 ==
+trở ngại
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 376 ==
+đơn giản hơn
+Tag: Tích cực loại 1
+po1
+po1
+
+== 377 ==
+bait
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 378 ==
+may mắn hơn
+Tag: Tích cực loại 2
+po2
+po2
+
+== 379 ==
+đáng tin cậy
+Tag: Tích cực loại 2
+po2
+po2
+
+== 380 ==
+diều hâu
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 381 ==
+có thể tiếp cận
+Tag: Tích cực loại 2
+po2
+po2
+
+== 382 ==
+làm phiền
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 383 ==
+laconic
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 384 ==
+làm hoen ố
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 385 ==
+địa ngục
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 386 ==
+thể thao
+Tag: Tích cực loại 2
+po2
+po2
+
+== 387 ==
+không khoan nhượng
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 388 ==
+thiếu suy nghĩ
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 389 ==
+trợ cấp
+Tag: Tích cực loại 1
+po1
+po1
+
+== 390 ==
+thiếu kinh nghiệm
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 391 ==
+Botch
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 392 ==
+tận hưởng
+Tag: Tích cực loại 1
+po1
+po1
+
+== 393 ==
+thu hồi
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 394 ==
+chạy xuống
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 395 ==
+gầm gừ
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 396 ==
+sự phản bội
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 397 ==
+bỏ chạy
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 398 ==
+ngoan cường
+Tag: Tích cực loại 2
+po2
+po2
+
+== 399 ==
+bắt nạt
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 400 ==
+đổ
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 401 ==
+diapped
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 402 ==
+phản tác dụng
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 403 ==
+hoài nghi
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 404 ==
+quá sợ hãi
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 405 ==
+không hoàn thành
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 406 ==
+slump
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 407 ==
+tràn lan
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 408 ==
+giật gân
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 409 ==
+người bận rộn
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 410 ==
+không đủ năng lực
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 411 ==
+không thể công kích
+Tag: Tích cực loại 2
+po2
+po2
+
+== 412 ==
+vui chơi
+Tag: Tích cực loại 1
+po1
+po1
+
+== 413 ==
+phù phiếm
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 414 ==
+sốt
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 415 ==
+cũ
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 416 ==
+giàu tính năng
+Tag: Tích cực loại 1
+po1
+po1
+
+== 417 ==
+độc hại
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 418 ==
+thiên đường
+Tag: Tích cực loại 1
+po1
+po1
+
+== 419 ==
+hoan hô
+Tag: Tích cực loại 2
+po2
+po2
+
+== 420 ==
+sloow
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 421 ==
+yên tĩnh
+Tag: Tích cực loại 2
+po2
+po2
+
+== 422 ==
+cách mạng hóa
+Tag: Tích cực loại 2
+po2
+po2
+
+== 423 ==
+sự diệt vong
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 424 ==
+tin tưởng
+Tag: Tích cực loại 1
+po1
+po1
+
+== 425 ==
+gỉ sét
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 426 ==
+khói
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 427 ==
+có tầm nhìn xa
+Tag: Tích cực loại 1
+po1
+po1
+
+== 428 ==
+độc độc
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 429 ==
+bất bình đẳng
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 430 ==
+khả năng
+Tag: Tích cực loại 1
+po1
+po1
+
+== 431 ==
+làm mất uy tín
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 432 ==
+chế giễu
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 433 ==
+cuff
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 434 ==
+khổ sở
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 435 ==
+nhẹ nhàng
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 436 ==
+tội phạm
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 437 ==
+đáng khen ngợi
+Tag: Tích cực loại 1
+po1
+po1
+
+== 438 ==
+gallant
+Tag: Tích cực loại 1
+po1
+po1
+
+== 439 ==
+đập mạnh
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 440 ==
+khạc nhổ
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 441 ==
+lừa bịp
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 442 ==
+ranted
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 443 ==
+kẻ gây rối
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 444 ==
+đa dạng
+Tag: Tích cực loại 1
+po1
+po1
+
+== 445 ==
+vênh vang
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 446 ==
+ảo giác
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 447 ==
+sâu bệnh
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 448 ==
+cắt đứt
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 449 ==
+đặc trưng
+Tag: Tích cực loại 1
+po1
+po1
+
+== 450 ==
+vệt
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 451 ==
+đắm mình
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 452 ==
+một phần
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 453 ==
+không thể hiểu được
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 454 ==
+tuyệt vọng
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 455 ==
+đa mục đích
+Tag: Tích cực loại 2
+po2
+po2
+
+== 456 ==
+ngẩn ngơ
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 457 ==
+tuân thủ
+Tag: Tích cực loại 2
+po2
+po2
+
+== 458 ==
+anh em
+Tag: Tích cực loại 1
+po1
+po1
+
+== 459 ==
+pedantic
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 460 ==
+nghi vấn
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 461 ==
+hủy diệt
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 462 ==
+hạ cấp
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 463 ==
+thực tế
+Tag: Tích cực loại 2
+po2
+po2
+
+== 464 ==
+thích nghi
+Tag: Tích cực loại 2
+po2
+po2
+
+== 465 ==
+không xác nhận
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 466 ==
+sôi sục
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 467 ==
+tự cung tự cấp
+Tag: Tích cực loại 2
+po2
+po2
+
+== 468 ==
+giảm sút
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 469 ==
+độc
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 470 ==
+liền mạch
+Tag: Tích cực loại 1
+po1
+po1
+
+== 471 ==
+may mắn thay
+Tag: Tích cực loại 1
+po1
+po1
+
+== 472 ==
+không nghi ngờ
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 473 ==
+lạc quan
+Tag: Tích cực loại 1
+po1
+po1
+
+== 474 ==
+ấm cúng
+Tag: Tích cực loại 1
+po1
+po1
+
+== 475 ==
+rẻ tiền
+Tag: Tích cực loại 2
+po2
+po2
+
+== 476 ==
+gold
+Tag: Tích cực loại 2
+po2
+po2
+
+== 477 ==
+làm sáng tỏ
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 478 ==
+rách nát
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 479 ==
+phá hoại
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 480 ==
+không tuân thủ
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 481 ==
+đáng báo động
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 482 ==
+ám ảnh
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 483 ==
+gắt gỏng nhất
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 484 ==
+tê liệt
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 485 ==
+hòa bình
+Tag: Tích cực loại 1
+po1
+po1
+
+== 486 ==
+hướng dẫn
+Tag: Tích cực loại 1
+po1
+po1
+
+== 487 ==
+danh dự
+Tag: Tích cực loại 2
+po2
+po2
+
+== 488 ==
+ngăn cản
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 489 ==
+trả đũa
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 490 ==
+cắn tắt
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 491 ==
+bitch
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 492 ==
+đáng kể
+Tag: Tích cực loại 2
+po2
+po2
+
+== 493 ==
+căng
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 494 ==
+lảo đảo
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 495 ==
+nói quá mức
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 496 ==
+dã man
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 497 ==
+thô bạo
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 498 ==
+hống hách
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 499 ==
+deginified
+Tag: Tích cực loại 1
+po1
+po1
+
+== 500 ==
+hoang dã
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 501 ==
+lạc lối
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 502 ==
+ngoài vòng pháp luật
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 503 ==
+xảo trá
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 504 ==
+làm ô nhiễm
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 505 ==
+đắt hơn
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 506 ==
+giết người
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 507 ==
+đảng phái
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 508 ==
+không khoan dung
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 509 ==
+sai lệch
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 510 ==
+hấp dẫn
+Tag: Tích cực loại 1
+po1
+po1
+
+== 511 ==
+giàu trí tưởng tượng
+Tag: Tích cực loại 2
+po2
+po2
+
+== 512 ==
+bộ xương
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 513 ==
+đường ray
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 514 ==
+hang động
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 515 ==
+chính nghĩa
+Tag: Tích cực loại 2
+po2
+po2
+
+== 516 ==
+né tránh
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 517 ==
+mắc kẹt
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 518 ==
+bỏ cuộc
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 519 ==
+hạnh phúc
+Tag: Tích cực loại 2
+po2
+po2
+
+== 520 ==
+đánh giá cao
+Tag: Tích cực loại 1
+po1
+po1
+
+== 521 ==
+nuông chiều
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 522 ==
+huyền thoại
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 523 ==
+người yêu
+Tag: Tích cực loại 2
+po2
+po2
+
+== 524 ==
+bỏ lỡ
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 525 ==
+hào phóng
+Tag: Tích cực loại 1
+po1
+po1
+
+== 526 ==
+người thụ hưởng
+Tag: Tích cực loại 2
+po2
+po2
+
+== 527 ==
+nhiếc móc
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 528 ==
+đảo ngược
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 529 ==
+vô hại
+Tag: Tích cực loại 2
+po2
+po2
+
+== 530 ==
+tấm lòng
+Tag: Tích cực loại 1
+po1
+po1
+
+== 531 ==
+dứt khoát
+Tag: Tích cực loại 2
+po2
+po2
+
+== 532 ==
+kiên trì
+Tag: Tích cực loại 1
+po1
+po1
+
+== 533 ==
+bẫy
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 534 ==
+cù
+Tag: Tích cực loại 1
+po1
+po1
+
+== 535 ==
+không thương tiếc
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 536 ==
+đáng chú ý
+Tag: Tích cực loại 1
+po1
+po1
+
+== 537 ==
+ngày tận thế
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 538 ==
+thô tục
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 539 ==
+không thể thu hồi
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 540 ==
+mê hoặc
+Tag: Tích cực loại 1
+po1
+po1
+
+== 541 ==
+tự phê bình
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 542 ==
+có lợi
+Tag: Tích cực loại 2
+po2
+po2
+
+== 543 ==
+flimflam
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 544 ==
+gian lận bầu cử
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 545 ==
+saggy
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 546 ==
+xé toạc
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 547 ==
+kiêu ngạo
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 548 ==
+bị ghẻ lạnh
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 549 ==
+rơi
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 550 ==
+không tin tưởng
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 551 ==
+mạnh mẽ hơn
+Tag: Tích cực loại 1
+po1
+po1
+
+== 552 ==
+gợi cảm
+Tag: Tích cực loại 1
+po1
+po1
+
+== 553 ==
+trục xuất
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 554 ==
+yêu mến
+Tag: Tích cực loại 1
+po1
+po1
+
+== 555 ==
+không thể diễn tả được
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 556 ==
+biến dạng
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 557 ==
+thành thạo
+Tag: Tích cực loại 2
+po2
+po2
+
+== 558 ==
+giả vờ
+Tag: Tích cực loại 2
+po2
+po2
+
+== 559 ==
+không hối hận
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 560 ==
+cân bằng quá mức
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 561 ==
+phục tùng
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 562 ==
+ngưng trệ
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 563 ==
+giáo điều
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 564 ==
+snappishly
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 565 ==
+gây ra
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 566 ==
+thẳng thắn
+Tag: Tích cực loại 2
+po2
+po2
+
+== 567 ==
+thật đau đớn
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 568 ==
+va chạm
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 569 ==
+sluts
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 570 ==
+sắp xảy ra
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 571 ==
+hiểu biết
+Tag: Tích cực loại 1
+po1
+po1
+
+== 572 ==
+thiếu kinh nghiệm
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 573 ==
+tiếng rít
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 574 ==
+bị đánh cắp
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 575 ==
+bền bỉ
+Tag: Tích cực loại 1
+po1
+po1
+
+== 576 ==
+tẩy não
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 577 ==
+gớm ghiếc
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 578 ==
+thiện chí
+Tag: Tích cực loại 1
+po1
+po1
+
+== 579 ==
+sự bội bạc
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 580 ==
+invisible
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 581 ==
+hả hê
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 582 ==
+brood
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 583 ==
+che khuất
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 584 ==
+có trật tự
+Tag: Tích cực loại 1
+po1
+po1
+
+== 585 ==
+tôn vinh
+Tag: Tích cực loại 1
+po1
+po1
+
+== 586 ==
+không có kết quả
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 587 ==
+không chứng minh
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 588 ==
+xấu tính
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 589 ==
+asperse
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 590 ==
+thông minh
+Tag: Tích cực loại 1
+po1
+po1
+
+== 591 ==
+lame
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 592 ==
+thơ ca
+Tag: Tích cực loại 1
+po1
+po1
+
+== 593 ==
+áp đặt
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 594 ==
+hoang mang
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 595 ==
+có tội
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 596 ==
+không linh hoạt
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 597 ==
+khinh thường
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 598 ==
+kháng cự
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 599 ==
+dụ dỗ
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 600 ==
+enflame
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 601 ==
+hành động quá mức
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 602 ==
+ăn xin
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 603 ==
+không biết gì
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 604 ==
+danke
+Tag: Tích cực loại 1
+po1
+po1
+
+== 605 ==
+bất mãn
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 606 ==
+heinous
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 607 ==
+phức tạp
+Tag: Tích cực loại 1
+po1
+po1
+
+== 608 ==
+galling
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 609 ==
+làm hài lòng
+Tag: Tích cực loại 2
+po2
+po2
+
+== 610 ==
+chết tiệt
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 611 ==
+thiên vị
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 612 ==
+nhếch mép
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 613 ==
+mê mẩn
+Tag: Tích cực loại 1
+po1
+po1
+
+== 614 ==
+works
+Tag: Tích cực loại 2
+po2
+po2
+
+== 615 ==
+cởi mở
+Tag: Tích cực loại 2
+po2
+po2
+
+== 616 ==
+thân mến
+Tag: Tích cực loại 1
+po1
+po1
+
+== 617 ==
+haggard
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 618 ==
+thiển cận
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 619 ==
+không thể hỗ trợ
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 620 ==
+tươi nhất
+Tag: Tích cực loại 1
+po1
+po1
+
+== 621 ==
+người gây ô nhiễm
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 622 ==
+2 mặt
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 623 ==
+vô tình
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 624 ==
+lẻ tẻ
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 625 ==
+các vấn đề
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 626 ==
+chết lặng
+Tag: Tích cực loại 1
+po1
+po1
+
+== 627 ==
+chào
+Tag: Tích cực loại 2
+po2
+po2
+
+== 628 ==
+nền tảng
+Tag: Tích cực loại 1
+po1
+po1
+
+== 629 ==
+loại trừ
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 630 ==
+cong vênh
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 631 ==
+tang chế
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 632 ==
+đấu tranh
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 633 ==
+dí dỏm
+Tag: Tích cực loại 2
+po2
+po2
+
+== 634 ==
+nóng nhất
+Tag: Tích cực loại 2
+po2
+po2
+
+== 635 ==
+thông minh
+Tag: Tích cực loại 2
+po2
+po2
+
+== 636 ==
+tiến bộ
+Tag: Tích cực loại 1
+po1
+po1
+
+== 637 ==
+sởi
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 638 ==
+mong manh
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 639 ==
+bất chấp
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 640 ==
+tra tấn
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 641 ==
+hoan hô
+Tag: Tích cực loại 2
+po2
+po2
+
+== 642 ==
+xấu hại
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 643 ==
+kỳ quan
+Tag: Tích cực loại 2
+po2
+po2
+
+== 644 ==
+sự ấm áp
+Tag: Tích cực loại 2
+po2
+po2
+
+== 645 ==
+trì trệ
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 646 ==
+gooood
+Tag: Tích cực loại 2
+po2
+po2
+
+== 647 ==
+kêu la
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 648 ==
+hành xác
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 649 ==
+tiếng thét
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 650 ==
+lắc
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 651 ==
+thực thi
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 652 ==
+nặng lòng
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 653 ==
+danken
+Tag: Tích cực loại 2
+po2
+po2
+
+== 654 ==
+xấu xí
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 655 ==
+trừng phạt
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 656 ==
+niềm tự hào
+Tag: Tích cực loại 2
+po2
+po2
+
+== 657 ==
+phi thường
+Tag: Tích cực loại 2
+po2
+po2
+
+== 658 ==
+leery
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 659 ==
+tay sai
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 660 ==
+bóng tối
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 661 ==
+nguy nga
+Tag: Tích cực loại 2
+po2
+po2
+
+== 662 ==
+ngon lành
+Tag: Tích cực loại 2
+po2
+po2
+
+== 663 ==
+nhanh nhẹn
+Tag: Tích cực loại 1
+po1
+po1
+
+== 664 ==
+sắc nét
+Tag: Tích cực loại 1
+po1
+po1
+
+== 665 ==
+vực sâu
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 666 ==
+kết tủa
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 667 ==
+vị tha
+Tag: Tích cực loại 2
+po2
+po2
+
+== 668 ==
+leo
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 669 ==
+không còn tồn tại
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 670 ==
+không duyên dáng
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 671 ==
+chua
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 672 ==
+tạp chất
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 673 ==
+không chú ý
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 674 ==
+nham hiểm
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 675 ==
+không thể
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 676 ==
+roadblocks
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 677 ==
+bungling
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 678 ==
+rụt rè
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 679 ==
+bắt buộc
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 680 ==
+tuyệt vời
+Tag: Tích cực loại 1
+po1
+po1
+
+== 681 ==
+một cách cuồng nhiệt
+Tag: Tích cực loại 2
+po2
+po2
+
+== 682 ==
+hobble
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 683 ==
+giống chiến tranh
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 684 ==
+bôi nhọ
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 685 ==
+ré lên
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 686 ==
+quyết liệt
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 687 ==
+ngoại tình
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 688 ==
+tuân thủ pháp luật
+Tag: Tích cực loại 1
+po1
+po1
+
+== 689 ==
+vướng mắc
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 690 ==
+mỉm cười
+Tag: Tích cực loại 2
+po2
+po2
+
+== 691 ==
+không trong sạch
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 692 ==
+bị ô nhiễm
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 693 ==
+trung thực
+Tag: Tích cực loại 1
+po1
+po1
+
+== 694 ==
+đá
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 695 ==
+slut
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 696 ==
+sử dụng không đúng cách
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 697 ==
+trả quá mức
+Tag: Tiêu cực loại 1
+ne1
+ne1
+
+== 698 ==
+không thể cưỡng lại được
+Tag: Tích cực loại 2
+po2
+po2
+
+== 699 ==
+kooky
+Tag: Tiêu cực loại 2
+ne2
+ne2
+
+== 700 ==
+tiếc nuối
+Tag: Tiêu cực loại 1
+ne1
+ne1
+

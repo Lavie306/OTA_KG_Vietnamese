@@ -1,0 +1,1711 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/vhera/ontologies/2026/vietnamese-sentiment-ontology"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/vhera/ontologies/2026/vietnamese-sentiment-ontology">
+    <Prefix name="" IRI="http://www.semanticweb.org/vhera/ontologies/2026/vietnamese-sentiment-ontology/"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <!-- ===================== Class Declarations ===================== -->
+    <Declaration>
+        <Class IRI="#Words"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#predicate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#subject"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Conjunction"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Special_sentence"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Negative_Adverbs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Negative"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Coordinating"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Prefix"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Subordinating"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Positive"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sentence"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Emotion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SentimentAnalysis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IntensifiersAndNegators"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EmotionWords"/>
+    </Declaration>
+    <!-- ===================== Data Property ===================== -->
+    <Declaration>
+        <DataProperty IRI="#hasSentimentScore"/>
+    </Declaration>
+    <!-- ===================== Class Hierarchy ===================== -->
+    <SubClassOf>
+        <Class IRI="#Conjunction"/>
+        <Class IRI="#Words"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Coordinating"/>
+        <Class IRI="#Conjunction"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Negative"/>
+        <Class IRI="#Words"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Negative_Adverbs"/>
+        <Class IRI="#Words"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Positive"/>
+        <Class IRI="#Words"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Prefix"/>
+        <Class IRI="#Words"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Special_sentence"/>
+        <Class IRI="#Sentence"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Subordinating"/>
+        <Class IRI="#Conjunction"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Words"/>
+        <Class IRI="#Sentence"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#predicate"/>
+        <Class IRI="#Sentence"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#subject"/>
+        <Class IRI="#Sentence"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Emotion"/>
+        <Class IRI="#Sentence"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SentimentAnalysis"/>
+        <Class IRI="#Negative"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SentimentAnalysis"/>
+        <Class IRI="#Positive"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IntensifiersAndNegators"/>
+        <Class IRI="#Words"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EmotionWords"/>
+        <Class IRI="#Words"/>
+    </SubClassOf>
+    <!-- ===================== Vietnamese Labels ===================== -->
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Words</IRI>
+        <Literal xml:lang="vi">Từ</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#predicate</IRI>
+        <Literal xml:lang="vi">Vị ngữ</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#subject</IRI>
+        <Literal xml:lang="vi">Chủ ngữ</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Conjunction</IRI>
+        <Literal xml:lang="vi">Liên từ</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Special_sentence</IRI>
+        <Literal xml:lang="vi">Câu đặc biệt</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Negative_Adverbs</IRI>
+        <Literal xml:lang="vi">Phó từ phủ định</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Negative</IRI>
+        <Literal xml:lang="vi">Tiêu cực</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Coordinating</IRI>
+        <Literal xml:lang="vi">Liên từ đẳng lập</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Prefix</IRI>
+        <Literal xml:lang="vi">Tiền tố</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Subordinating</IRI>
+        <Literal xml:lang="vi">Liên từ phụ thuộc</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Positive</IRI>
+        <Literal xml:lang="vi">Tích cực</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Sentence</IRI>
+        <Literal xml:lang="vi">Câu</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Emotion</IRI>
+        <Literal xml:lang="vi">Cảm xúc</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#SentimentAnalysis</IRI>
+        <Literal xml:lang="vi">Phân tích cảm xúc</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IntensifiersAndNegators</IRI>
+        <Literal xml:lang="vi">Từ tăng cường và phủ định</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#EmotionWords</IRI>
+        <Literal xml:lang="vi">Từ cảm xúc</Literal>
+    </AnnotationAssertion>
+    <!-- ===================== Positive / Negative Words ===================== -->
+    <!-- tuyệt vời -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_tuyet_voi"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Word_tuyet_voi"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_tuyet_voi</IRI>
+        <Literal xml:lang="vi">tuyệt vời</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_tuyet_voi"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.0</Literal>
+    </DataPropertyAssertion>
+    <!-- xuất sắc -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_xuat_sac"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Word_xuat_sac"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_xuat_sac</IRI>
+        <Literal xml:lang="vi">xuất sắc</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_xuat_sac"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.0</Literal>
+    </DataPropertyAssertion>
+    <!-- hoàn hảo -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_hoan_hao"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Word_hoan_hao"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_hoan_hao</IRI>
+        <Literal xml:lang="vi">hoàn hảo</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_hoan_hao"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.0</Literal>
+    </DataPropertyAssertion>
+    <!-- đặc biệt -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_dac_biet"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Word_dac_biet"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_dac_biet</IRI>
+        <Literal xml:lang="vi">đặc biệt</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_dac_biet"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.0</Literal>
+    </DataPropertyAssertion>
+    <!-- tuyệt hảo -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_tuyet_hao"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Word_tuyet_hao"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_tuyet_hao</IRI>
+        <Literal xml:lang="vi">tuyệt hảo</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_tuyet_hao"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.0</Literal>
+    </DataPropertyAssertion>
+    <!-- vĩ đại -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_vi_dai"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Word_vi_dai"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_vi_dai</IRI>
+        <Literal xml:lang="vi">vĩ đại</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_vi_dai"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.0</Literal>
+    </DataPropertyAssertion>
+    <!-- phi thường -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_phi_thuong"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Word_phi_thuong"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_phi_thuong</IRI>
+        <Literal xml:lang="vi">phi thường</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_phi_thuong"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.0</Literal>
+    </DataPropertyAssertion>
+    <!-- tuyệt -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_tuyet"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Word_tuyet"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_tuyet</IRI>
+        <Literal xml:lang="vi">tuyệt</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_tuyet"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.0</Literal>
+    </DataPropertyAssertion>
+    <!-- tốt nhất -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_tot_nhat"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Word_tot_nhat"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_tot_nhat</IRI>
+        <Literal xml:lang="vi">tốt nhất</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_tot_nhat"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.0</Literal>
+    </DataPropertyAssertion>
+    <!-- yêu -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_yeu"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Word_yeu"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_yeu</IRI>
+        <Literal xml:lang="vi">yêu</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_yeu"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.0</Literal>
+    </DataPropertyAssertion>
+    <!-- tốt -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_tot"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Word_tot"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_tot</IRI>
+        <Literal xml:lang="vi">tốt</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_tot"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.6</Literal>
+    </DataPropertyAssertion>
+    <!-- hài lòng -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_hai_long"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Word_hai_long"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_hai_long</IRI>
+        <Literal xml:lang="vi">hài lòng</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_hai_long"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.6</Literal>
+    </DataPropertyAssertion>
+    <!-- thích -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_thich"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Word_thich"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_thich</IRI>
+        <Literal xml:lang="vi">thích</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_thich"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.6</Literal>
+    </DataPropertyAssertion>
+    <!-- ổn -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_on"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Word_on"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_on</IRI>
+        <Literal xml:lang="vi">ổn</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_on"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.5</Literal>
+    </DataPropertyAssertion>
+    <!-- được -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_duoc"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Word_duoc"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_duoc</IRI>
+        <Literal xml:lang="vi">được</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_duoc"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.5</Literal>
+    </DataPropertyAssertion>
+    <!-- khá -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_kha"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Word_kha"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_kha</IRI>
+        <Literal xml:lang="vi">khá</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_kha"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.6</Literal>
+    </DataPropertyAssertion>
+    <!-- hay -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_hay"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Word_hay"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_hay</IRI>
+        <Literal xml:lang="vi">hay</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_hay"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.6</Literal>
+    </DataPropertyAssertion>
+    <!-- tiện lợi -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_tien_loi"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Word_tien_loi"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_tien_loi</IRI>
+        <Literal xml:lang="vi">tiện lợi</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_tien_loi"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.6</Literal>
+    </DataPropertyAssertion>
+    <!-- nhanh -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_nhanh"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Word_nhanh"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_nhanh</IRI>
+        <Literal xml:lang="vi">nhanh</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_nhanh"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.5</Literal>
+    </DataPropertyAssertion>
+    <!-- dễ -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_de"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Word_de"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_de</IRI>
+        <Literal xml:lang="vi">dễ</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_de"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.6</Literal>
+    </DataPropertyAssertion>
+    <!-- thỏa mãn -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_thoa_man"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Word_thoa_man"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_thoa_man</IRI>
+        <Literal xml:lang="vi">thỏa mãn</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_thoa_man"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.6</Literal>
+    </DataPropertyAssertion>
+    <!-- vui -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_vui"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Word_vui"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_vui</IRI>
+        <Literal xml:lang="vi">vui</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_vui"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.6</Literal>
+    </DataPropertyAssertion>
+    <!-- hạnh phúc -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_hanh_phuc"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Word_hanh_phuc"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_hanh_phuc</IRI>
+        <Literal xml:lang="vi">hạnh phúc</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_hanh_phuc"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.7</Literal>
+    </DataPropertyAssertion>
+    <!-- tệ -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_te"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Word_te"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_te</IRI>
+        <Literal xml:lang="vi">tệ</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_te"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-0.6</Literal>
+    </DataPropertyAssertion>
+    <!-- kém -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_kem"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Word_kem"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_kem</IRI>
+        <Literal xml:lang="vi">kém</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_kem"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-0.6</Literal>
+    </DataPropertyAssertion>
+    <!-- chậm -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_cham"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Word_cham"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_cham</IRI>
+        <Literal xml:lang="vi">chậm</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_cham"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-0.6</Literal>
+    </DataPropertyAssertion>
+    <!-- thất vọng -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_that_vong"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Word_that_vong"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_that_vong</IRI>
+        <Literal xml:lang="vi">thất vọng</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_that_vong"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-0.6</Literal>
+    </DataPropertyAssertion>
+    <!-- phàn nàn -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_phan_nan"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Word_phan_nan"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_phan_nan</IRI>
+        <Literal xml:lang="vi">phàn nàn</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_phan_nan"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-0.6</Literal>
+    </DataPropertyAssertion>
+    <!-- khó -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_kho"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Word_kho"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_kho</IRI>
+        <Literal xml:lang="vi">khó</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_kho"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-0.5</Literal>
+    </DataPropertyAssertion>
+    <!-- đắt -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_dat"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Word_dat"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_dat</IRI>
+        <Literal xml:lang="vi">đắt</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_dat"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-0.5</Literal>
+    </DataPropertyAssertion>
+    <!-- bất tiện -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_bat_tien"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Word_bat_tien"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_bat_tien</IRI>
+        <Literal xml:lang="vi">bất tiện</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_bat_tien"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-0.5</Literal>
+    </DataPropertyAssertion>
+    <!-- không hài lòng -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_khong_hai_long"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Word_khong_hai_long"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_khong_hai_long</IRI>
+        <Literal xml:lang="vi">không hài lòng</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_khong_hai_long"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-0.6</Literal>
+    </DataPropertyAssertion>
+    <!-- buồn -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_buon"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Word_buon"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_buon</IRI>
+        <Literal xml:lang="vi">buồn</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_buon"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-0.5</Literal>
+    </DataPropertyAssertion>
+    <!-- chán -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_chan"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Word_chan"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_chan</IRI>
+        <Literal xml:lang="vi">chán</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_chan"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-0.5</Literal>
+    </DataPropertyAssertion>
+    <!-- kinh khủng -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_kinh_khung"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Word_kinh_khung"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_kinh_khung</IRI>
+        <Literal xml:lang="vi">kinh khủng</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_kinh_khung"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-1.0</Literal>
+    </DataPropertyAssertion>
+    <!-- tồi tệ -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_toi_te"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Word_toi_te"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_toi_te</IRI>
+        <Literal xml:lang="vi">tồi tệ</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_toi_te"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-1.0</Literal>
+    </DataPropertyAssertion>
+    <!-- thảm hại -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_tham_hai"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Word_tham_hai"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_tham_hai</IRI>
+        <Literal xml:lang="vi">thảm hại</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_tham_hai"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-1.0</Literal>
+    </DataPropertyAssertion>
+    <!-- ghét -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_ghet"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Word_ghet"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_ghet</IRI>
+        <Literal xml:lang="vi">ghét</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_ghet"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-1.0</Literal>
+    </DataPropertyAssertion>
+    <!-- hỏng -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_hong"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Word_hong"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_hong</IRI>
+        <Literal xml:lang="vi">hỏng</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_hong"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-1.0</Literal>
+    </DataPropertyAssertion>
+    <!-- vô dụng -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_vo_dung"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Word_vo_dung"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_vo_dung</IRI>
+        <Literal xml:lang="vi">vô dụng</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_vo_dung"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-1.0</Literal>
+    </DataPropertyAssertion>
+    <!-- lỗi -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_loi"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Word_loi"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_loi</IRI>
+        <Literal xml:lang="vi">lỗi</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_loi"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-0.8</Literal>
+    </DataPropertyAssertion>
+    <!-- gian lận -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_gian_lan"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Word_gian_lan"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_gian_lan</IRI>
+        <Literal xml:lang="vi">gian lận</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_gian_lan"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-1.0</Literal>
+    </DataPropertyAssertion>
+    <!-- lừa đảo -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_lua_dao"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Word_lua_dao"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_lua_dao</IRI>
+        <Literal xml:lang="vi">lừa đảo</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_lua_dao"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-1.0</Literal>
+    </DataPropertyAssertion>
+    <!-- tồi -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_toi"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Word_toi"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_toi</IRI>
+        <Literal xml:lang="vi">tồi</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_toi"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-0.8</Literal>
+    </DataPropertyAssertion>
+    <!-- xấu -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_xau"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Word_xau"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_xau</IRI>
+        <Literal xml:lang="vi">xấu</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_xau"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-0.7</Literal>
+    </DataPropertyAssertion>
+    <!-- khủng khiếp -->
+    <Declaration>
+        <NamedIndividual IRI="#Word_khung_khiep"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Word_khung_khiep"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Word_khung_khiep</IRI>
+        <Literal xml:lang="vi">khủng khiếp</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Word_khung_khiep"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-1.0</Literal>
+    </DataPropertyAssertion>
+    <!-- ===================== Idiomatic Phrases ===================== -->
+    <!-- không thể tưởng tượng được -->
+    <Declaration>
+        <NamedIndividual IRI="#Phrase_khong_the_tuong_tuong_duoc"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Phrase_khong_the_tuong_tuong_duoc"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Phrase_khong_the_tuong_tuong_duoc</IRI>
+        <Literal xml:lang="vi">không thể tưởng tượng được</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Phrase_khong_the_tuong_tuong_duoc"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.0</Literal>
+    </DataPropertyAssertion>
+    <!-- tuyệt vời nhất -->
+    <Declaration>
+        <NamedIndividual IRI="#Phrase_tuyet_voi_nhat"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Phrase_tuyet_voi_nhat"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Phrase_tuyet_voi_nhat</IRI>
+        <Literal xml:lang="vi">tuyệt vời nhất</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Phrase_tuyet_voi_nhat"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.0</Literal>
+    </DataPropertyAssertion>
+    <!-- không có gì phàn nàn -->
+    <Declaration>
+        <NamedIndividual IRI="#Phrase_khong_co_gi_phan_nan"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Phrase_khong_co_gi_phan_nan"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Phrase_khong_co_gi_phan_nan</IRI>
+        <Literal xml:lang="vi">không có gì phàn nàn</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Phrase_khong_co_gi_phan_nan"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.8</Literal>
+    </DataPropertyAssertion>
+    <!-- đáng mua -->
+    <Declaration>
+        <NamedIndividual IRI="#Phrase_dang_mua"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Phrase_dang_mua"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Phrase_dang_mua</IRI>
+        <Literal xml:lang="vi">đáng mua</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Phrase_dang_mua"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.8</Literal>
+    </DataPropertyAssertion>
+    <!-- sẽ mua lại -->
+    <Declaration>
+        <NamedIndividual IRI="#Phrase_se_mua_lai"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Positive"/>
+        <NamedIndividual IRI="#Phrase_se_mua_lai"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Phrase_se_mua_lai</IRI>
+        <Literal xml:lang="vi">sẽ mua lại</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Phrase_se_mua_lai"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.0</Literal>
+    </DataPropertyAssertion>
+    <!-- không mua lại -->
+    <Declaration>
+        <NamedIndividual IRI="#Phrase_khong_mua_lai"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Phrase_khong_mua_lai"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Phrase_khong_mua_lai</IRI>
+        <Literal xml:lang="vi">không mua lại</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Phrase_khong_mua_lai"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-0.8</Literal>
+    </DataPropertyAssertion>
+    <!-- không thể chấp nhận -->
+    <Declaration>
+        <NamedIndividual IRI="#Phrase_khong_the_chap_nhan"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Phrase_khong_the_chap_nhan"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Phrase_khong_the_chap_nhan</IRI>
+        <Literal xml:lang="vi">không thể chấp nhận</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Phrase_khong_the_chap_nhan"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-1.0</Literal>
+    </DataPropertyAssertion>
+    <!-- rất thất vọng -->
+    <Declaration>
+        <NamedIndividual IRI="#Phrase_rat_that_vong"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Phrase_rat_that_vong"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Phrase_rat_that_vong</IRI>
+        <Literal xml:lang="vi">rất thất vọng</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Phrase_rat_that_vong"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-1.0</Literal>
+    </DataPropertyAssertion>
+    <!-- hết sức tệ -->
+    <Declaration>
+        <NamedIndividual IRI="#Phrase_het_suc_te"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Phrase_het_suc_te"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Phrase_het_suc_te</IRI>
+        <Literal xml:lang="vi">hết sức tệ</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Phrase_het_suc_te"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-1.0</Literal>
+    </DataPropertyAssertion>
+    <!-- tránh xa -->
+    <Declaration>
+        <NamedIndividual IRI="#Phrase_tranh_xa"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative"/>
+        <NamedIndividual IRI="#Phrase_tranh_xa"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Phrase_tranh_xa</IRI>
+        <Literal xml:lang="vi">tránh xa</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Phrase_tranh_xa"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-1.0</Literal>
+    </DataPropertyAssertion>
+    <!-- ===================== Negation Adverbs ===================== -->
+    <!-- không -->
+    <Declaration>
+        <NamedIndividual IRI="#Neg_khong"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative_Adverbs"/>
+        <NamedIndividual IRI="#Neg_khong"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Neg_khong</IRI>
+        <Literal xml:lang="vi">không</Literal>
+    </AnnotationAssertion>
+    <!-- chưa -->
+    <Declaration>
+        <NamedIndividual IRI="#Neg_chua"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative_Adverbs"/>
+        <NamedIndividual IRI="#Neg_chua"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Neg_chua</IRI>
+        <Literal xml:lang="vi">chưa</Literal>
+    </AnnotationAssertion>
+    <!-- chẳng -->
+    <Declaration>
+        <NamedIndividual IRI="#Neg_chang"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative_Adverbs"/>
+        <NamedIndividual IRI="#Neg_chang"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Neg_chang</IRI>
+        <Literal xml:lang="vi">chẳng</Literal>
+    </AnnotationAssertion>
+    <!-- không hề -->
+    <Declaration>
+        <NamedIndividual IRI="#Neg_khong_he"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative_Adverbs"/>
+        <NamedIndividual IRI="#Neg_khong_he"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Neg_khong_he</IRI>
+        <Literal xml:lang="vi">không hề</Literal>
+    </AnnotationAssertion>
+    <!-- chẳng hề -->
+    <Declaration>
+        <NamedIndividual IRI="#Neg_chang_he"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative_Adverbs"/>
+        <NamedIndividual IRI="#Neg_chang_he"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Neg_chang_he</IRI>
+        <Literal xml:lang="vi">chẳng hề</Literal>
+    </AnnotationAssertion>
+    <!-- không phải -->
+    <Declaration>
+        <NamedIndividual IRI="#Neg_khong_phai"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative_Adverbs"/>
+        <NamedIndividual IRI="#Neg_khong_phai"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Neg_khong_phai</IRI>
+        <Literal xml:lang="vi">không phải</Literal>
+    </AnnotationAssertion>
+    <!-- chưa bao giờ -->
+    <Declaration>
+        <NamedIndividual IRI="#Neg_chua_bao_gio"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative_Adverbs"/>
+        <NamedIndividual IRI="#Neg_chua_bao_gio"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Neg_chua_bao_gio</IRI>
+        <Literal xml:lang="vi">chưa bao giờ</Literal>
+    </AnnotationAssertion>
+    <!-- không bao giờ -->
+    <Declaration>
+        <NamedIndividual IRI="#Neg_khong_bao_gio"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative_Adverbs"/>
+        <NamedIndividual IRI="#Neg_khong_bao_gio"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Neg_khong_bao_gio</IRI>
+        <Literal xml:lang="vi">không bao giờ</Literal>
+    </AnnotationAssertion>
+    <!-- không thể -->
+    <Declaration>
+        <NamedIndividual IRI="#Neg_khong_the"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative_Adverbs"/>
+        <NamedIndividual IRI="#Neg_khong_the"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Neg_khong_the</IRI>
+        <Literal xml:lang="vi">không thể</Literal>
+    </AnnotationAssertion>
+    <!-- không được -->
+    <Declaration>
+        <NamedIndividual IRI="#Neg_khong_duoc"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative_Adverbs"/>
+        <NamedIndividual IRI="#Neg_khong_duoc"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Neg_khong_duoc</IRI>
+        <Literal xml:lang="vi">không được</Literal>
+    </AnnotationAssertion>
+    <!-- nào có -->
+    <Declaration>
+        <NamedIndividual IRI="#Neg_nao_co"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Negative_Adverbs"/>
+        <NamedIndividual IRI="#Neg_nao_co"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Neg_nao_co</IRI>
+        <Literal xml:lang="vi">nào có</Literal>
+    </AnnotationAssertion>
+    <!-- ===================== Intensifiers ===================== -->
+    <!-- rất -->
+    <Declaration>
+        <NamedIndividual IRI="#Intens_rat"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#IntensifiersAndNegators"/>
+        <NamedIndividual IRI="#Intens_rat"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Intens_rat</IRI>
+        <Literal xml:lang="vi">rất</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Intens_rat"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.5</Literal>
+    </DataPropertyAssertion>
+    <!-- cực kỳ -->
+    <Declaration>
+        <NamedIndividual IRI="#Intens_cuc_ky"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#IntensifiersAndNegators"/>
+        <NamedIndividual IRI="#Intens_cuc_ky"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Intens_cuc_ky</IRI>
+        <Literal xml:lang="vi">cực kỳ</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Intens_cuc_ky"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">2.0</Literal>
+    </DataPropertyAssertion>
+    <!-- vô cùng -->
+    <Declaration>
+        <NamedIndividual IRI="#Intens_vo_cung"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#IntensifiersAndNegators"/>
+        <NamedIndividual IRI="#Intens_vo_cung"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Intens_vo_cung</IRI>
+        <Literal xml:lang="vi">vô cùng</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Intens_vo_cung"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">2.0</Literal>
+    </DataPropertyAssertion>
+    <!-- hết sức -->
+    <Declaration>
+        <NamedIndividual IRI="#Intens_het_suc"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#IntensifiersAndNegators"/>
+        <NamedIndividual IRI="#Intens_het_suc"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Intens_het_suc</IRI>
+        <Literal xml:lang="vi">hết sức</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Intens_het_suc"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.8</Literal>
+    </DataPropertyAssertion>
+    <!-- hoàn toàn -->
+    <Declaration>
+        <NamedIndividual IRI="#Intens_hoan_toan"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#IntensifiersAndNegators"/>
+        <NamedIndividual IRI="#Intens_hoan_toan"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Intens_hoan_toan</IRI>
+        <Literal xml:lang="vi">hoàn toàn</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Intens_hoan_toan"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.8</Literal>
+    </DataPropertyAssertion>
+    <!-- thực sự -->
+    <Declaration>
+        <NamedIndividual IRI="#Intens_thuc_su"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#IntensifiersAndNegators"/>
+        <NamedIndividual IRI="#Intens_thuc_su"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Intens_thuc_su</IRI>
+        <Literal xml:lang="vi">thực sự</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Intens_thuc_su"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.4</Literal>
+    </DataPropertyAssertion>
+    <!-- khá -->
+    <Declaration>
+        <NamedIndividual IRI="#Intens_kha"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#IntensifiersAndNegators"/>
+        <NamedIndividual IRI="#Intens_kha"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Intens_kha</IRI>
+        <Literal xml:lang="vi">khá</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Intens_kha"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.2</Literal>
+    </DataPropertyAssertion>
+    <!-- hơi -->
+    <Declaration>
+        <NamedIndividual IRI="#Intens_hoi"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#IntensifiersAndNegators"/>
+        <NamedIndividual IRI="#Intens_hoi"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Intens_hoi</IRI>
+        <Literal xml:lang="vi">hơi</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Intens_hoi"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.7</Literal>
+    </DataPropertyAssertion>
+    <!-- tương đối -->
+    <Declaration>
+        <NamedIndividual IRI="#Intens_tuong_doi"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#IntensifiersAndNegators"/>
+        <NamedIndividual IRI="#Intens_tuong_doi"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Intens_tuong_doi</IRI>
+        <Literal xml:lang="vi">tương đối</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Intens_tuong_doi"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.8</Literal>
+    </DataPropertyAssertion>
+    <!-- có phần -->
+    <Declaration>
+        <NamedIndividual IRI="#Intens_co_phan"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#IntensifiersAndNegators"/>
+        <NamedIndividual IRI="#Intens_co_phan"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Intens_co_phan</IRI>
+        <Literal xml:lang="vi">có phần</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Intens_co_phan"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.8</Literal>
+    </DataPropertyAssertion>
+    <!-- quá -->
+    <Declaration>
+        <NamedIndividual IRI="#Intens_qua"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#IntensifiersAndNegators"/>
+        <NamedIndividual IRI="#Intens_qua"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Intens_qua</IRI>
+        <Literal xml:lang="vi">quá</Literal>
+    </AnnotationAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSentimentScore"/>
+        <NamedIndividual IRI="#Intens_qua"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.6</Literal>
+    </DataPropertyAssertion>
+    <!-- ===================== Contrastive Conjunctions ===================== -->
+    <!-- nhưng -->
+    <Declaration>
+        <NamedIndividual IRI="#Conj_nhung"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Coordinating"/>
+        <NamedIndividual IRI="#Conj_nhung"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Conj_nhung</IRI>
+        <Literal xml:lang="vi">nhưng</Literal>
+    </AnnotationAssertion>
+    <!-- tuy nhiên -->
+    <Declaration>
+        <NamedIndividual IRI="#Conj_tuy_nhien"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Coordinating"/>
+        <NamedIndividual IRI="#Conj_tuy_nhien"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Conj_tuy_nhien</IRI>
+        <Literal xml:lang="vi">tuy nhiên</Literal>
+    </AnnotationAssertion>
+    <!-- dù -->
+    <Declaration>
+        <NamedIndividual IRI="#Conj_du"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Coordinating"/>
+        <NamedIndividual IRI="#Conj_du"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Conj_du</IRI>
+        <Literal xml:lang="vi">dù</Literal>
+    </AnnotationAssertion>
+    <!-- mặc dù -->
+    <Declaration>
+        <NamedIndividual IRI="#Conj_mac_du"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Coordinating"/>
+        <NamedIndividual IRI="#Conj_mac_du"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Conj_mac_du</IRI>
+        <Literal xml:lang="vi">mặc dù</Literal>
+    </AnnotationAssertion>
+    <!-- dù vậy -->
+    <Declaration>
+        <NamedIndividual IRI="#Conj_du_vay"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Coordinating"/>
+        <NamedIndividual IRI="#Conj_du_vay"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Conj_du_vay</IRI>
+        <Literal xml:lang="vi">dù vậy</Literal>
+    </AnnotationAssertion>
+    <!-- song -->
+    <Declaration>
+        <NamedIndividual IRI="#Conj_song"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Coordinating"/>
+        <NamedIndividual IRI="#Conj_song"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Conj_song</IRI>
+        <Literal xml:lang="vi">song</Literal>
+    </AnnotationAssertion>
+    <!-- thế nhưng -->
+    <Declaration>
+        <NamedIndividual IRI="#Conj_the_nhung"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Coordinating"/>
+        <NamedIndividual IRI="#Conj_the_nhung"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Conj_the_nhung</IRI>
+        <Literal xml:lang="vi">thế nhưng</Literal>
+    </AnnotationAssertion>
+    <!-- dù thế -->
+    <Declaration>
+        <NamedIndividual IRI="#Conj_du_the"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Coordinating"/>
+        <NamedIndividual IRI="#Conj_du_the"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Conj_du_the</IRI>
+        <Literal xml:lang="vi">dù thế</Literal>
+    </AnnotationAssertion>
+    <!-- tuy thế -->
+    <Declaration>
+        <NamedIndividual IRI="#Conj_tuy_the"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Coordinating"/>
+        <NamedIndividual IRI="#Conj_tuy_the"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Conj_tuy_the</IRI>
+        <Literal xml:lang="vi">tuy thế</Literal>
+    </AnnotationAssertion>
+    <!-- nhưng mà -->
+    <Declaration>
+        <NamedIndividual IRI="#Conj_nhung_ma"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Coordinating"/>
+        <NamedIndividual IRI="#Conj_nhung_ma"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Conj_nhung_ma</IRI>
+        <Literal xml:lang="vi">nhưng mà</Literal>
+    </AnnotationAssertion>
+    <!-- nhưng lại -->
+    <Declaration>
+        <NamedIndividual IRI="#Conj_nhung_lai"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Coordinating"/>
+        <NamedIndividual IRI="#Conj_nhung_lai"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Conj_nhung_lai</IRI>
+        <Literal xml:lang="vi">nhưng lại</Literal>
+    </AnnotationAssertion>
+</Ontology>

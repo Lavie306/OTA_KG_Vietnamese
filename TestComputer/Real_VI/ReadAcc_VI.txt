@@ -1,0 +1,3500 @@
+== 1 ==
+dị ứng
+ne1
+ne1
+
+== 2 ==
+không thể phân biệt được
+ne2
+ne2
+
+== 3 ==
+ngứa
+ne2
+ne2
+
+== 4 ==
+có thể kiểm chứng
+po1
+po1
+
+== 5 ==
+phản công
+po1
+po1
+
+== 6 ==
+bỏ học
+ne2
+ne2
+
+== 7 ==
+không đều đặn
+ne2
+ne2
+
+== 8 ==
+kỳ lạ
+ne2
+ne2
+
+== 9 ==
+vô điều kiện
+po1
+po1
+
+== 10 ==
+ăn da
+ne2
+ne2
+
+== 11 ==
+mire
+ne2
+ne2
+
+== 12 ==
+kẻ gây rối
+ne1
+ne1
+
+== 13 ==
+có tay nghề cao
+po2
+po2
+
+== 14 ==
+ấn tượng
+ne2
+ne2
+
+== 15 ==
+cúi xuống
+ne1
+ne1
+
+== 16 ==
+xói mòn
+ne2
+ne2
+
+== 17 ==
+thiêu đốt
+ne1
+ne1
+
+== 18 ==
+vẫy gọi
+po1
+po1
+
+== 19 ==
+biến thái
+ne2
+ne2
+
+== 20 ==
+đầm lầy
+ne1
+ne1
+
+== 21 ==
+phung phí
+ne1
+ne1
+
+== 22 ==
+kh răn đe
+ne2
+ne2
+
+== 23 ==
+kẻ áp bức
+ne2
+ne2
+
+== 24 ==
+trơ trẽn
+ne2
+ne2
+
+== 25 ==
+độc quyền
+ne2
+ne2
+
+== 26 ==
+phản diện
+ne1
+ne1
+
+== 27 ==
+ngứa ran
+ne1
+ne1
+
+== 28 ==
+ra lệnh
+ne2
+ne2
+
+== 29 ==
+vô ơn
+ne1
+ne1
+
+== 30 ==
+bashed
+ne2
+ne2
+
+== 31 ==
+không hoàn hảo
+ne1
+ne1
+
+== 32 ==
+kẻ bần cùng
+ne1
+ne1
+
+== 33 ==
+tranh chấp
+ne2
+ne2
+
+== 34 ==
+chế nhạo
+ne1
+ne1
+
+== 35 ==
+phản cảm
+ne2
+ne2
+
+== 36 ==
+đi chệch hướng
+ne2
+ne2
+
+== 37 ==
+trò hề
+ne1
+ne1
+
+== 38 ==
+xua đuổi
+ne2
+ne2
+
+== 39 ==
+ốm yếu
+ne1
+ne1
+
+== 40 ==
+cảm động
+ne2
+ne2
+
+== 41 ==
+bướm ga
+ne1
+ne1
+
+== 42 ==
+cao quý
+po2
+po2
+
+== 43 ==
+thần đồng
+po2
+po2
+
+== 44 ==
+rùng mình
+ne2
+ne2
+
+== 45 ==
+gắt gỏng
+ne2
+ne2
+
+== 46 ==
+tán tỉnh
+ne2
+ne2
+
+== 47 ==
+lang thang
+ne1
+ne1
+
+== 48 ==
+mài mòn
+ne1
+ne1
+
+== 49 ==
+chất lượng hàng đầu
+po2
+po2
+
+== 50 ==
+phồng rộp
+ne1
+ne1
+
+== 51 ==
+bán thân
+ne2
+ne2
+
+== 52 ==
+trao quyền
+po2
+po2
+
+== 53 ==
+kẻ chạy trốn
+ne2
+ne2
+
+== 54 ==
+dễ dàng nhất
+po2
+po2
+
+== 55 ==
+bedlamite
+ne2
+ne2
+
+== 56 ==
+không tin tưởng
+ne2
+ne2
+
+== 57 ==
+phỉ báng
+ne2
+ne2
+
+== 58 ==
+không công bằng
+ne1
+ne1
+
+== 59 ==
+bất đồng quan điểm
+ne2
+ne2
+
+== 60 ==
+làm sai lệch
+ne2
+ne2
+
+== 61 ==
+béo
+ne1
+ne1
+
+== 62 ==
+điên cuồng
+ne1
+ne1
+
+== 63 ==
+vô giá trị
+ne2
+ne2
+
+== 64 ==
+sạch nhất
+po2
+po2
+
+== 65 ==
+đánh đập
+ne2
+ne2
+
+== 66 ==
+lây nhiễm
+ne1
+ne1
+
+== 67 ==
+tử tế
+po2
+po2
+
+== 68 ==
+sinh lợi
+po2
+po2
+
+== 69 ==
+bất công
+ne1
+ne1
+
+== 70 ==
+thiên thần
+po2
+po2
+
+== 71 ==
+điên quá
+ne2
+ne2
+
+== 72 ==
+vết mòn
+ne1
+ne1
+
+== 73 ==
+ổn định
+po1
+po1
+
+== 74 ==
+vui mừng
+po2
+po2
+
+== 75 ==
+goon
+ne2
+ne2
+
+== 76 ==
+lễ hội
+po2
+po2
+
+== 77 ==
+thẳng
+po2
+po2
+
+== 78 ==
+battering
+ne2
+ne2
+
+== 79 ==
+làm bối rối
+ne2
+ne2
+
+== 80 ==
+có động lực
+po2
+po2
+
+== 81 ==
+bậc thầy
+po1
+po1
+
+== 82 ==
+giải phóng
+ne1
+ne1
+
+== 83 ==
+thô
+ne2
+ne2
+
+== 84 ==
+âm thầm
+ne2
+ne2
+
+== 85 ==
+ca tụng
+po1
+po1
+
+== 86 ==
+bị ruồng bỏ
+ne1
+ne1
+
+== 87 ==
+ca rô
+ne1
+ne1
+
+== 88 ==
+hòa giải
+po2
+po2
+
+== 89 ==
+giết mổ
+ne2
+ne2
+
+== 90 ==
+ăn cắp
+ne2
+ne2
+
+== 91 ==
+tốt bụng
+po2
+po2
+
+== 92 ==
+thủ phạm
+ne1
+ne1
+
+== 93 ==
+sâu sắc
+po1
+po1
+
+== 94 ==
+xuống sắc
+ne1
+ne1
+
+== 95 ==
+xác tàu
+ne1
+ne1
+
+== 96 ==
+ma quái
+ne2
+ne2
+
+== 97 ==
+chu đáo
+po1
+po1
+
+== 98 ==
+gièm pha
+ne2
+ne2
+
+== 99 ==
+cứng nhắc
+ne2
+ne2
+
+== 100 ==
+chuyên chế
+ne2
+ne2
+
+== 101 ==
+anh hùng
+po2
+po2
+
+== 102 ==
+elan
+po2
+po2
+
+== 103 ==
+ngu dốt
+ne1
+ne1
+
+== 104 ==
+kiềm chế
+ne1
+ne1
+
+== 105 ==
+nổi
+ne2
+ne2
+
+== 106 ==
+thân thiện
+po1
+po1
+
+== 107 ==
+xâm phạm
+ne2
+ne2
+
+== 108 ==
+doom
+ne2
+ne2
+
+== 109 ==
+rủi ro
+ne1
+ne1
+
+== 110 ==
+hào hiệp
+po1
+po1
+
+== 111 ==
+không lành mạnh
+ne1
+ne1
+
+== 112 ==
+không thể giải quyết
+ne1
+ne1
+
+== 113 ==
+thảm khốc
+ne1
+ne1
+
+== 114 ==
+tích cực
+po1
+po1
+
+== 115 ==
+phụ nữ hóa
+ne2
+ne2
+
+== 116 ==
+hai  phải đối mặt
+ne2
+ne2
+
+== 117 ==
+phê duyệt
+po1
+po1
+
+== 118 ==
+thỏa đáng
+po2
+po2
+
+== 119 ==
+được chúa ban cho
+po2
+po2
+
+== 120 ==
+nôn
+ne1
+ne1
+
+== 121 ==
+không đúng mực
+ne2
+ne2
+
+== 122 ==
+gia đình trị
+ne1
+ne1
+
+== 123 ==
+phong phú
+po1
+po1
+
+== 124 ==
+galore
+po1
+po1
+
+== 125 ==
+đáng nghi ngờ
+ne2
+ne2
+
+== 126 ==
+không chính xác
+ne1
+ne1
+
+== 127 ==
+áo khoác đường
+ne1
+ne1
+
+== 128 ==
+phan thuong
+po2
+po2
+
+== 129 ==
+geeky
+po2
+po2
+
+== 130 ==
+phủ nhận
+ne2
+ne2
+
+== 131 ==
+thuyết phục
+po1
+po1
+
+== 132 ==
+thích hợp
+po1
+po1
+
+== 133 ==
+lồn
+ne2
+ne2
+
+== 134 ==
+ân nhân
+po1
+po1
+
+== 135 ==
+hối lộ
+ne2
+ne2
+
+== 136 ==
+giả dối
+ne1
+ne1
+
+== 137 ==
+tối hậu thư
+ne1
+ne1
+
+== 138 ==
+hết lòng
+po2
+po2
+
+== 139 ==
+kinh hãi
+ne2
+ne2
+
+== 140 ==
+cay
+ne1
+ne1
+
+== 141 ==
+thất bại
+ne1
+ne1
+
+== 142 ==
+bất tuân
+ne1
+ne1
+
+== 143 ==
+phát ban
+ne2
+ne2
+
+== 144 ==
+đèn nền tốt
+po1
+po1
+
+== 145 ==
+dấn thân
+po2
+po2
+
+== 146 ==
+đe dọa
+ne2
+ne2
+
+== 147 ==
+phản đối
+ne1
+ne1
+
+== 148 ==
+nhà vô địch
+po2
+po2
+
+== 149 ==
+sang trọng
+po2
+po2
+
+== 150 ==
+khốn khổ
+ne1
+ne1
+
+== 151 ==
+gục tối
+ne2
+ne2
+
+== 152 ==
+vô song
+po2
+po2
+
+== 153 ==
+chia tay
+ne2
+ne2
+
+== 154 ==
+chưa trưởng thành
+ne1
+ne1
+
+== 155 ==
+thiếu thốn
+ne1
+ne1
+
+== 156 ==
+không quyết đoán
+ne2
+ne2
+
+== 157 ==
+không phức tạp
+po1
+po1
+
+== 158 ==
+hoàn tác
+ne1
+ne1
+
+== 159 ==
+phiêu lưu
+po2
+po2
+
+== 160 ==
+sẹo
+ne2
+ne2
+
+== 161 ==
+nhờn
+ne1
+ne1
+
+== 162 ==
+disabled
+ne1
+ne1
+
+== 163 ==
+không muốn
+ne2
+ne2
+
+== 164 ==
+bullyingly
+ne2
+ne2
+
+== 165 ==
+ấm lòng
+po1
+po1
+
+== 166 ==
+mắng mỏ
+ne1
+ne1
+
+== 167 ==
+chìm đắm
+ne1
+ne1
+
+== 168 ==
+khủng khiếp
+ne2
+ne2
+
+== 169 ==
+phân cực
+ne2
+ne2
+
+== 170 ==
+tung tóe
+ne1
+ne1
+
+== 171 ==
+tiết kiệm chi phí
+po2
+po2
+
+== 172 ==
+nghèo nàn
+ne1
+ne1
+
+== 173 ==
+lý tưởng hóa
+po1
+po1
+
+== 174 ==
+tan rã
+ne2
+ne2
+
+== 175 ==
+violator
+ne2
+ne2
+
+== 176 ==
+đáng kinh ngạc
+po1
+po1
+
+== 177 ==
+đau lòng
+ne1
+ne1
+
+== 178 ==
+thành công
+po1
+po1
+
+== 179 ==
+nghiêm trọng
+ne2
+ne2
+
+== 180 ==
+dilly dally
+ne2
+ne2
+
+== 181 ==
+khêu gợi
+ne1
+ne1
+
+== 182 ==
+có thể sử dụng
+po2
+po2
+
+== 183 ==
+làm mất giá trị
+ne1
+ne1
+
+== 184 ==
+tác hại
+ne1
+ne1
+
+== 185 ==
+xấc xược
+ne1
+ne1
+
+== 186 ==
+làm đẹp
+po2
+po2
+
+== 187 ==
+thiếu tôn trọng
+ne1
+ne1
+
+== 188 ==
+chống chúng ta
+ne1
+ne1
+
+== 189 ==
+có ý kiến
+ne2
+ne2
+
+== 190 ==
+lễ kỷ niệm
+po1
+po1
+
+== 191 ==
+không tin
+ne1
+ne1
+
+== 192 ==
+đắt
+ne1
+ne1
+
+== 193 ==
+cấp tiến
+ne2
+ne2
+
+== 194 ==
+ngáp
+ne1
+ne1
+
+== 195 ==
+không có vấn đề
+po1
+po1
+
+== 196 ==
+loạn thần kinh
+ne1
+ne1
+
+== 197 ==
+giá thấp
+po1
+po1
+
+== 198 ==
+rò rỉ
+ne2
+ne2
+
+== 199 ==
+đơn cực
+ne2
+ne2
+
+== 200 ==
+trump
+po1
+po1
+
+== 201 ==
+chán
+ne1
+ne1
+
+== 202 ==
+thoái hóa
+ne1
+ne1
+
+== 203 ==
+craps
+ne2
+ne2
+
+== 204 ==
+run rẩy
+ne1
+ne1
+
+== 205 ==
+cảnh đẹp
+po1
+po1
+
+== 206 ==
+thất bại
+po1
+po1
+
+== 207 ==
+hàng đầu
+po2
+po2
+
+== 208 ==
+rẻ nhất
+po1
+po1
+
+== 209 ==
+người biện hộ
+ne2
+ne2
+
+== 210 ==
+quá sợ hãi
+ne2
+ne2
+
+== 211 ==
+sống động
+po2
+po2
+
+== 212 ==
+xuống dốc
+ne2
+ne2
+
+== 213 ==
+đơn giản nhất
+po2
+po2
+
+== 214 ==
+phẳng
+ne2
+ne2
+
+== 215 ==
+dài dòng
+ne1
+ne1
+
+== 216 ==
+lắp bắp
+ne2
+ne2
+
+== 217 ==
+không thành công
+ne2
+ne2
+
+== 218 ==
+chiến thắng
+po2
+po2
+
+== 219 ==
+bị cản trở
+ne2
+ne2
+
+== 220 ==
+không thể biện minh được
+ne1
+ne1
+
+== 221 ==
+xúc xắc
+ne2
+ne2
+
+== 222 ==
+dẫn đầu
+po2
+po2
+
+== 223 ==
+hỏi
+ne1
+ne1
+
+== 224 ==
+nhấn mạnh quá mức
+ne1
+ne1
+
+== 225 ==
+siêu
+po2
+po2
+
+== 226 ==
+hoành tráng
+po1
+po1
+
+== 227 ==
+dũng cảm
+ne1
+ne1
+
+== 228 ==
+nghĩ xấu
+ne2
+ne2
+
+== 229 ==
+zap
+ne1
+ne1
+
+== 230 ==
+có thể quản lý được
+po1
+po1
+
+== 231 ==
+wrought
+ne2
+ne2
+
+== 232 ==
+kẻ bao vây
+ne1
+ne1
+
+== 233 ==
+an ủi
+po1
+po1
+
+== 234 ==
+trầy xước
+ne2
+ne2
+
+== 235 ==
+yay
+po2
+po2
+
+== 236 ==
+spellbind
+po2
+po2
+
+== 237 ==
+soi mói
+ne1
+ne1
+
+== 238 ==
+bị vứt vào thùng rác
+ne1
+ne1
+
+== 239 ==
+đơn giản
+ne1
+ne1
+
+== 240 ==
+nhỏ mọn
+ne1
+ne1
+
+== 241 ==
+nguy hiểm
+ne1
+ne1
+
+== 242 ==
+khiêm tốn
+po2
+po2
+
+== 243 ==
+khinh bỉ
+ne1
+ne1
+
+== 244 ==
+siêu thực
+po2
+po2
+
+== 245 ==
+cứu tinh
+po2
+po2
+
+== 246 ==
+lừa gạt
+ne2
+ne2
+
+== 247 ==
+nghèo nàn
+ne2
+ne2
+
+== 248 ==
+khan hiếm
+ne2
+ne2
+
+== 249 ==
+hỏng
+ne2
+ne2
+
+== 250 ==
+sự khéo léo
+po2
+po2
+
+== 251 ==
+phản bội
+ne2
+ne2
+
+== 252 ==
+khinh bỉ
+ne2
+ne2
+
+== 253 ==
+gained
+po2
+po2
+
+== 254 ==
+không liên quan
+ne1
+ne1
+
+== 255 ==
+vu khống
+ne2
+ne2
+
+== 256 ==
+ma quỷ
+ne1
+ne1
+
+== 257 ==
+testily
+ne2
+ne2
+
+== 258 ==
+quái vật
+ne2
+ne2
+
+== 259 ==
+chậm tiến
+ne1
+ne1
+
+== 260 ==
+lời nói lắp bắp
+ne1
+ne1
+
+== 261 ==
+mờ
+ne2
+ne2
+
+== 262 ==
+không thể hiểu được
+ne2
+ne2
+
+== 263 ==
+vết nứt
+ne1
+ne1
+
+== 264 ==
+chắc chắn hơn
+po1
+po1
+
+== 265 ==
+ngớ ngẩn
+ne1
+ne1
+
+== 266 ==
+một cách mơ hồ
+ne1
+ne1
+
+== 267 ==
+thiên tài
+po1
+po1
+
+== 268 ==
+vấn đề
+ne1
+ne1
+
+== 269 ==
+có trách nhiệm
+po1
+po1
+
+== 270 ==
+chuộc lỗi
+po1
+po1
+
+== 271 ==
+toàn cảnh
+po2
+po2
+
+== 272 ==
+d*mn
+ne2
+ne2
+
+== 273 ==
+mất cân bằng
+ne2
+ne2
+
+== 274 ==
+tự trọng
+po1
+po1
+
+== 275 ==
+không bị trừng phạt
+ne2
+ne2
+
+== 276 ==
+bình minh
+po2
+po2
+
+== 277 ==
+bị hư hỏng
+ne2
+ne2
+
+== 278 ==
+không hạn chế
+po1
+po1
+
+== 279 ==
+bóng bẩy
+po1
+po1
+
+== 280 ==
+ba người
+ne2
+ne2
+
+== 281 ==
+rõ ràng
+po2
+po2
+
+== 282 ==
+khó khăn
+ne1
+ne1
+
+== 283 ==
+tấn công dữ dội
+ne2
+ne2
+
+== 284 ==
+sụt giảm
+ne2
+ne2
+
+== 285 ==
+ganh tị
+ne2
+ne2
+
+== 286 ==
+nụ cười
+po2
+po2
+
+== 287 ==
+nhạt nhẽo
+ne2
+ne2
+
+== 288 ==
+phúc lợi
+po2
+po2
+
+== 289 ==
+xói mòn
+ne2
+ne2
+
+== 290 ==
+lắp đặt
+ne1
+ne1
+
+== 291 ==
+thông thạo
+po1
+po1
+
+== 292 ==
+yêu mến
+po2
+po2
+
+== 293 ==
+rõ ràng
+ne1
+ne1
+
+== 294 ==
+sương giá
+ne1
+ne1
+
+== 295 ==
+không chắc chắn
+ne2
+ne2
+
+== 296 ==
+sắc bén
+po1
+po1
+
+== 297 ==
+ma quái nhất
+ne1
+ne1
+
+== 298 ==
+thương vong
+ne1
+ne1
+
+== 299 ==
+không tinh vi
+ne1
+ne1
+
+== 300 ==
+ưu điểm
+po1
+po1
+
+== 301 ==
+đồng cảm
+po2
+po2
+
+== 302 ==
+mơ hồ
+ne1
+ne1
+
+== 303 ==
+sự thiếu sót
+ne2
+ne2
+
+== 304 ==
+làm mới
+po2
+po2
+
+== 305 ==
+làm giàu
+ne2
+ne2
+
+== 306 ==
+trình bày sai
+ne1
+ne1
+
+== 307 ==
+kết nối tốt
+po1
+po1
+
+== 308 ==
+vẻ đẹp
+po2
+po2
+
+== 309 ==
+không dễ dàng
+ne2
+ne2
+
+== 310 ==
+ngôi sao nhạc rock
+po1
+po1
+
+== 311 ==
+có hạt
+ne1
+ne1
+
+== 312 ==
+nông cạn
+ne2
+ne2
+
+== 313 ==
+vô duyên
+ne1
+ne1
+
+== 314 ==
+kích động
+ne2
+ne2
+
+== 315 ==
+sự quyết tâm
+po1
+po1
+
+== 316 ==
+không khỏe
+ne1
+ne1
+
+== 317 ==
+không ổn định
+ne2
+ne2
+
+== 318 ==
+đau buồn
+ne1
+ne1
+
+== 319 ==
+thần tượng
+po1
+po1
+
+== 320 ==
+bí ẩn
+ne2
+ne2
+
+== 321 ==
+hung hăng
+ne1
+ne1
+
+== 322 ==
+vi phạm pháp luật
+ne2
+ne2
+
+== 323 ==
+máy bay không người lái
+ne2
+ne2
+
+== 324 ==
+thô lỗ
+ne2
+ne2
+
+== 325 ==
+vĩ đại nhất
+po2
+po2
+
+== 326 ==
+không quan tâm
+ne2
+ne2
+
+== 327 ==
+xảy ra
+ne2
+ne2
+
+== 328 ==
+rách rưới
+ne1
+ne1
+
+== 329 ==
+thách thức
+ne2
+ne2
+
+== 330 ==
+bỏ chạy
+ne1
+ne1
+
+== 331 ==
+backward
+ne2
+ne2
+
+== 332 ==
+daze
+ne1
+ne1
+
+== 333 ==
+rác rưởi
+ne1
+ne1
+
+== 334 ==
+không đáng kể
+ne1
+ne1
+
+== 335 ==
+dirtbag
+ne1
+ne1
+
+== 336 ==
+không tồn tại
+ne1
+ne1
+
+== 337 ==
+chia tay
+ne2
+ne2
+
+== 338 ==
+áp bức
+ne2
+ne2
+
+== 339 ==
+lambast
+ne2
+ne2
+
+== 340 ==
+khởi sắc
+po1
+po1
+
+== 341 ==
+điều cấm kỵ
+ne2
+ne2
+
+== 342 ==
+tống tiền
+ne1
+ne1
+
+== 343 ==
+ốm
+ne1
+ne1
+
+== 344 ==
+đối kháng
+ne1
+ne1
+
+== 345 ==
+thực sự
+po1
+po1
+
+== 346 ==
+anh
+po1
+po1
+
+== 347 ==
+không thể hiểu được
+ne1
+ne1
+
+== 348 ==
+killed
+ne2
+ne2
+
+== 349 ==
+chủ nghĩa cơ bản
+ne1
+ne1
+
+== 350 ==
+kẻ ghét
+ne1
+ne1
+
+== 351 ==
+không nghi ngờ gì
+po1
+po1
+
+== 352 ==
+mawkishness
+ne2
+ne2
+
+== 353 ==
+hợm hĩnh
+ne1
+ne1
+
+== 354 ==
+không thể sử dụng được
+ne2
+ne2
+
+== 355 ==
+gây hấn
+ne1
+ne1
+
+== 356 ==
+tùy tiện
+ne1
+ne1
+
+== 357 ==
+trêu ngươi
+po2
+po2
+
+== 358 ==
+cổ xưa
+ne2
+ne2
+
+== 359 ==
+tước quyền sở hữu
+ne2
+ne2
+
+== 360 ==
+hùng hồn
+po2
+po2
+
+== 361 ==
+thổi hồn
+po1
+po1
+
+== 362 ==
+ung thư
+ne1
+ne1
+
+== 363 ==
+ngông cuồng
+ne2
+ne2
+
+== 364 ==
+tối cao
+po2
+po2
+
+== 365 ==
+xẻ xéo
+ne2
+ne2
+
+== 366 ==
+điên
+ne2
+ne2
+
+== 367 ==
+leech
+ne2
+ne2
+
+== 368 ==
+chướng mắt
+ne1
+ne1
+
+== 369 ==
+thuận tiện
+po1
+po1
+
+== 370 ==
+sốc
+ne2
+ne2
+
+== 371 ==
+đủ tiêu chuẩn
+po1
+po1
+
+== 372 ==
+hợp pháp
+po2
+po2
+
+== 373 ==
+tái phát
+ne1
+ne1
+
+== 374 ==
+thiếu quyết đoán
+ne2
+ne2
+
+== 375 ==
+trở ngại
+ne1
+ne1
+
+== 376 ==
+đơn giản hơn
+po1
+po1
+
+== 377 ==
+bait
+ne1
+ne1
+
+== 378 ==
+may mắn hơn
+po2
+po2
+
+== 379 ==
+đáng tin cậy
+po2
+po2
+
+== 380 ==
+diều hâu
+ne2
+ne2
+
+== 381 ==
+có thể tiếp cận
+po2
+po2
+
+== 382 ==
+làm phiền
+ne1
+ne1
+
+== 383 ==
+laconic
+ne2
+ne2
+
+== 384 ==
+làm hoen ố
+ne2
+ne2
+
+== 385 ==
+địa ngục
+ne1
+ne1
+
+== 386 ==
+thể thao
+po2
+po2
+
+== 387 ==
+không khoan nhượng
+ne1
+ne1
+
+== 388 ==
+thiếu suy nghĩ
+ne2
+ne2
+
+== 389 ==
+trợ cấp
+po1
+po1
+
+== 390 ==
+thiếu kinh nghiệm
+ne2
+ne2
+
+== 391 ==
+Botch
+ne2
+ne2
+
+== 392 ==
+tận hưởng
+po1
+po1
+
+== 393 ==
+thu hồi
+ne1
+ne1
+
+== 394 ==
+chạy xuống
+ne2
+ne2
+
+== 395 ==
+gầm gừ
+ne2
+ne2
+
+== 396 ==
+sự phản bội
+ne1
+ne1
+
+== 397 ==
+bỏ chạy
+ne2
+ne2
+
+== 398 ==
+ngoan cường
+po2
+po2
+
+== 399 ==
+bắt nạt
+ne1
+ne1
+
+== 400 ==
+đổ
+ne2
+ne2
+
+== 401 ==
+diapped
+ne2
+ne2
+
+== 402 ==
+phản tác dụng
+ne1
+ne1
+
+== 403 ==
+hoài nghi
+ne1
+ne1
+
+== 404 ==
+quá sợ hãi
+ne2
+ne2
+
+== 405 ==
+không hoàn thành
+ne1
+ne1
+
+== 406 ==
+slump
+ne2
+ne2
+
+== 407 ==
+tràn lan
+ne1
+ne1
+
+== 408 ==
+giật gân
+ne2
+ne2
+
+== 409 ==
+người bận rộn
+ne1
+ne1
+
+== 410 ==
+không đủ năng lực
+ne2
+ne2
+
+== 411 ==
+không thể công kích
+po2
+po2
+
+== 412 ==
+vui chơi
+po1
+po1
+
+== 413 ==
+phù phiếm
+ne2
+ne2
+
+== 414 ==
+sốt
+ne1
+ne1
+
+== 415 ==
+cũ
+ne2
+ne2
+
+== 416 ==
+giàu tính năng
+po1
+po1
+
+== 417 ==
+độc hại
+ne1
+ne1
+
+== 418 ==
+thiên đường
+po1
+po1
+
+== 419 ==
+hoan hô
+po2
+po2
+
+== 420 ==
+sloow
+ne2
+ne2
+
+== 421 ==
+yên tĩnh
+po2
+po2
+
+== 422 ==
+cách mạng hóa
+po2
+po2
+
+== 423 ==
+sự diệt vong
+ne2
+ne2
+
+== 424 ==
+tin tưởng
+po1
+po1
+
+== 425 ==
+gỉ sét
+ne1
+ne1
+
+== 426 ==
+khói
+ne2
+ne2
+
+== 427 ==
+có tầm nhìn xa
+po1
+po1
+
+== 428 ==
+độc độc
+ne1
+ne1
+
+== 429 ==
+bất bình đẳng
+ne1
+ne1
+
+== 430 ==
+khả năng
+po1
+po1
+
+== 431 ==
+làm mất uy tín
+ne2
+ne2
+
+== 432 ==
+chế giễu
+ne1
+ne1
+
+== 433 ==
+cuff
+ne2
+ne2
+
+== 434 ==
+khổ sở
+ne2
+ne2
+
+== 435 ==
+nhẹ nhàng
+ne1
+ne1
+
+== 436 ==
+tội phạm
+ne1
+ne1
+
+== 437 ==
+đáng khen ngợi
+po1
+po1
+
+== 438 ==
+gallant
+po1
+po1
+
+== 439 ==
+đập mạnh
+ne2
+ne2
+
+== 440 ==
+khạc nhổ
+ne2
+ne2
+
+== 441 ==
+lừa bịp
+ne1
+ne1
+
+== 442 ==
+ranted
+ne2
+ne2
+
+== 443 ==
+kẻ gây rối
+ne1
+ne1
+
+== 444 ==
+đa dạng
+po1
+po1
+
+== 445 ==
+vênh vang
+ne1
+ne1
+
+== 446 ==
+ảo giác
+ne1
+ne1
+
+== 447 ==
+sâu bệnh
+ne1
+ne1
+
+== 448 ==
+cắt đứt
+ne1
+ne1
+
+== 449 ==
+đặc trưng
+po1
+po1
+
+== 450 ==
+vệt
+ne2
+ne2
+
+== 451 ==
+đắm mình
+ne2
+ne2
+
+== 452 ==
+một phần
+ne2
+ne2
+
+== 453 ==
+không thể hiểu được
+ne1
+ne1
+
+== 454 ==
+tuyệt vọng
+ne2
+ne2
+
+== 455 ==
+đa mục đích
+po2
+po2
+
+== 456 ==
+ngẩn ngơ
+ne2
+ne2
+
+== 457 ==
+tuân thủ
+po2
+po2
+
+== 458 ==
+anh em
+po1
+po1
+
+== 459 ==
+pedantic
+ne1
+ne1
+
+== 460 ==
+nghi vấn
+ne1
+ne1
+
+== 461 ==
+hủy diệt
+ne2
+ne2
+
+== 462 ==
+hạ cấp
+ne2
+ne2
+
+== 463 ==
+thực tế
+po2
+po2
+
+== 464 ==
+thích nghi
+po2
+po2
+
+== 465 ==
+không xác nhận
+ne2
+ne2
+
+== 466 ==
+sôi sục
+ne1
+ne1
+
+== 467 ==
+tự cung tự cấp
+po2
+po2
+
+== 468 ==
+giảm sút
+ne1
+ne1
+
+== 469 ==
+độc
+ne1
+ne1
+
+== 470 ==
+liền mạch
+po1
+po1
+
+== 471 ==
+may mắn thay
+po1
+po1
+
+== 472 ==
+không nghi ngờ
+ne1
+ne1
+
+== 473 ==
+lạc quan
+po1
+po1
+
+== 474 ==
+ấm cúng
+po1
+po1
+
+== 475 ==
+rẻ tiền
+po2
+po2
+
+== 476 ==
+gold
+po2
+po2
+
+== 477 ==
+làm sáng tỏ
+ne1
+ne1
+
+== 478 ==
+rách nát
+ne2
+ne2
+
+== 479 ==
+phá hoại
+ne1
+ne1
+
+== 480 ==
+không tuân thủ
+ne2
+ne2
+
+== 481 ==
+đáng báo động
+ne1
+ne1
+
+== 482 ==
+ám ảnh
+ne1
+ne1
+
+== 483 ==
+gắt gỏng nhất
+ne1
+ne1
+
+== 484 ==
+tê liệt
+ne2
+ne2
+
+== 485 ==
+hòa bình
+po1
+po1
+
+== 486 ==
+hướng dẫn
+po1
+po1
+
+== 487 ==
+danh dự
+po2
+po2
+
+== 488 ==
+ngăn cản
+ne1
+ne1
+
+== 489 ==
+trả đũa
+ne2
+ne2
+
+== 490 ==
+cắn tắt
+ne2
+ne2
+
+== 491 ==
+bitch
+ne2
+ne2
+
+== 492 ==
+đáng kể
+po2
+po2
+
+== 493 ==
+căng
+ne1
+ne1
+
+== 494 ==
+lảo đảo
+ne2
+ne2
+
+== 495 ==
+nói quá mức
+ne1
+ne1
+
+== 496 ==
+dã man
+ne2
+ne2
+
+== 497 ==
+thô bạo
+ne1
+ne1
+
+== 498 ==
+hống hách
+ne1
+ne1
+
+== 499 ==
+deginified
+po1
+po1
+
+== 500 ==
+hoang dã
+ne2
+ne2
+
+== 501 ==
+lạc lối
+ne1
+ne1
+
+== 502 ==
+ngoài vòng pháp luật
+ne1
+ne1
+
+== 503 ==
+xảo trá
+ne1
+ne1
+
+== 504 ==
+làm ô nhiễm
+ne1
+ne1
+
+== 505 ==
+đắt hơn
+ne1
+ne1
+
+== 506 ==
+giết người
+ne2
+ne2
+
+== 507 ==
+đảng phái
+ne2
+ne2
+
+== 508 ==
+không khoan dung
+ne2
+ne2
+
+== 509 ==
+sai lệch
+ne2
+ne2
+
+== 510 ==
+hấp dẫn
+po1
+po1
+
+== 511 ==
+giàu trí tưởng tượng
+po2
+po2
+
+== 512 ==
+bộ xương
+ne1
+ne1
+
+== 513 ==
+đường ray
+ne1
+ne1
+
+== 514 ==
+hang động
+ne1
+ne1
+
+== 515 ==
+chính nghĩa
+po2
+po2
+
+== 516 ==
+né tránh
+ne2
+ne2
+
+== 517 ==
+mắc kẹt
+ne2
+ne2
+
+== 518 ==
+bỏ cuộc
+ne1
+ne1
+
+== 519 ==
+hạnh phúc
+po2
+po2
+
+== 520 ==
+đánh giá cao
+po1
+po1
+
+== 521 ==
+nuông chiều
+ne1
+ne1
+
+== 522 ==
+huyền thoại
+ne1
+ne1
+
+== 523 ==
+người yêu
+po2
+po2
+
+== 524 ==
+bỏ lỡ
+ne1
+ne1
+
+== 525 ==
+hào phóng
+po1
+po1
+
+== 526 ==
+người thụ hưởng
+po2
+po2
+
+== 527 ==
+nhiếc móc
+ne2
+ne2
+
+== 528 ==
+đảo ngược
+ne1
+ne1
+
+== 529 ==
+vô hại
+po2
+po2
+
+== 530 ==
+tấm lòng
+po1
+po1
+
+== 531 ==
+dứt khoát
+po2
+po2
+
+== 532 ==
+kiên trì
+po1
+po1
+
+== 533 ==
+bẫy
+ne2
+ne2
+
+== 534 ==
+cù
+po1
+po1
+
+== 535 ==
+không thương tiếc
+ne2
+ne2
+
+== 536 ==
+đáng chú ý
+po1
+po1
+
+== 537 ==
+ngày tận thế
+ne1
+ne1
+
+== 538 ==
+thô tục
+ne2
+ne2
+
+== 539 ==
+không thể thu hồi
+ne1
+ne1
+
+== 540 ==
+mê hoặc
+po1
+po1
+
+== 541 ==
+tự phê bình
+ne2
+ne2
+
+== 542 ==
+có lợi
+po2
+po2
+
+== 543 ==
+flimflam
+ne2
+ne2
+
+== 544 ==
+gian lận bầu cử
+ne1
+ne1
+
+== 545 ==
+saggy
+ne1
+ne1
+
+== 546 ==
+xé toạc
+ne2
+ne2
+
+== 547 ==
+kiêu ngạo
+ne1
+ne1
+
+== 548 ==
+bị ghẻ lạnh
+ne2
+ne2
+
+== 549 ==
+rơi
+ne1
+ne1
+
+== 550 ==
+không tin tưởng
+ne2
+ne2
+
+== 551 ==
+mạnh mẽ hơn
+po1
+po1
+
+== 552 ==
+gợi cảm
+po1
+po1
+
+== 553 ==
+trục xuất
+ne2
+ne2
+
+== 554 ==
+yêu mến
+po1
+po1
+
+== 555 ==
+không thể diễn tả được
+ne1
+ne1
+
+== 556 ==
+biến dạng
+ne1
+ne1
+
+== 557 ==
+thành thạo
+po2
+po2
+
+== 558 ==
+giả vờ
+po2
+po2
+
+== 559 ==
+không hối hận
+ne1
+ne1
+
+== 560 ==
+cân bằng quá mức
+ne1
+ne1
+
+== 561 ==
+phục tùng
+ne2
+ne2
+
+== 562 ==
+ngưng trệ
+ne1
+ne1
+
+== 563 ==
+giáo điều
+ne2
+ne2
+
+== 564 ==
+snappishly
+ne1
+ne1
+
+== 565 ==
+gây ra
+ne2
+ne2
+
+== 566 ==
+thẳng thắn
+po2
+po2
+
+== 567 ==
+thật đau đớn
+ne2
+ne2
+
+== 568 ==
+va chạm
+ne1
+ne1
+
+== 569 ==
+sluts
+ne2
+ne2
+
+== 570 ==
+sắp xảy ra
+ne2
+ne2
+
+== 571 ==
+hiểu biết
+po1
+po1
+
+== 572 ==
+thiếu kinh nghiệm
+ne1
+ne1
+
+== 573 ==
+tiếng rít
+ne2
+ne2
+
+== 574 ==
+bị đánh cắp
+ne2
+ne2
+
+== 575 ==
+bền bỉ
+po1
+po1
+
+== 576 ==
+tẩy não
+ne1
+ne1
+
+== 577 ==
+gớm ghiếc
+ne1
+ne1
+
+== 578 ==
+thiện chí
+po1
+po1
+
+== 579 ==
+sự bội bạc
+ne1
+ne1
+
+== 580 ==
+invisible
+ne2
+ne2
+
+== 581 ==
+hả hê
+ne1
+ne1
+
+== 582 ==
+brood
+ne2
+ne2
+
+== 583 ==
+che khuất
+ne1
+ne1
+
+== 584 ==
+có trật tự
+po1
+po1
+
+== 585 ==
+tôn vinh
+po1
+po1
+
+== 586 ==
+không có kết quả
+ne1
+ne1
+
+== 587 ==
+không chứng minh
+ne2
+ne2
+
+== 588 ==
+xấu tính
+ne2
+ne2
+
+== 589 ==
+asperse
+ne2
+ne2
+
+== 590 ==
+thông minh
+po1
+po1
+
+== 591 ==
+lame
+ne2
+ne2
+
+== 592 ==
+thơ ca
+po1
+po1
+
+== 593 ==
+áp đặt
+ne2
+ne2
+
+== 594 ==
+hoang mang
+ne1
+ne1
+
+== 595 ==
+có tội
+ne1
+ne1
+
+== 596 ==
+không linh hoạt
+ne1
+ne1
+
+== 597 ==
+khinh thường
+ne2
+ne2
+
+== 598 ==
+kháng cự
+ne1
+ne1
+
+== 599 ==
+dụ dỗ
+ne1
+ne1
+
+== 600 ==
+enflame
+ne1
+ne1
+
+== 601 ==
+hành động quá mức
+ne1
+ne1
+
+== 602 ==
+ăn xin
+ne2
+ne2
+
+== 603 ==
+không biết gì
+ne1
+ne1
+
+== 604 ==
+danke
+po1
+po1
+
+== 605 ==
+bất mãn
+ne2
+ne2
+
+== 606 ==
+heinous
+ne2
+ne2
+
+== 607 ==
+phức tạp
+po1
+po1
+
+== 608 ==
+galling
+ne2
+ne2
+
+== 609 ==
+làm hài lòng
+po2
+po2
+
+== 610 ==
+chết tiệt
+ne2
+ne2
+
+== 611 ==
+thiên vị
+ne2
+ne2
+
+== 612 ==
+nhếch mép
+ne1
+ne1
+
+== 613 ==
+mê mẩn
+po1
+po1
+
+== 614 ==
+works
+po2
+po2
+
+== 615 ==
+cởi mở
+po2
+po2
+
+== 616 ==
+thân mến
+po1
+po1
+
+== 617 ==
+haggard
+ne2
+ne2
+
+== 618 ==
+thiển cận
+ne1
+ne1
+
+== 619 ==
+không thể hỗ trợ
+ne2
+ne2
+
+== 620 ==
+tươi nhất
+po1
+po1
+
+== 621 ==
+người gây ô nhiễm
+ne2
+ne2
+
+== 622 ==
+2 mặt
+ne1
+ne1
+
+== 623 ==
+vô tình
+ne2
+ne2
+
+== 624 ==
+lẻ tẻ
+ne2
+ne2
+
+== 625 ==
+các vấn đề
+ne1
+ne1
+
+== 626 ==
+chết lặng
+po1
+po1
+
+== 627 ==
+chào
+po2
+po2
+
+== 628 ==
+nền tảng
+po1
+po1
+
+== 629 ==
+loại trừ
+ne1
+ne1
+
+== 630 ==
+cong vênh
+ne2
+ne2
+
+== 631 ==
+tang chế
+ne1
+ne1
+
+== 632 ==
+đấu tranh
+ne2
+ne2
+
+== 633 ==
+dí dỏm
+po2
+po2
+
+== 634 ==
+nóng nhất
+po2
+po2
+
+== 635 ==
+thông minh
+po2
+po2
+
+== 636 ==
+tiến bộ
+po1
+po1
+
+== 637 ==
+sởi
+ne2
+ne2
+
+== 638 ==
+mong manh
+ne1
+ne1
+
+== 639 ==
+bất chấp
+ne2
+ne2
+
+== 640 ==
+tra tấn
+ne2
+ne2
+
+== 641 ==
+hoan hô
+po2
+po2
+
+== 642 ==
+xấu hại
+ne2
+ne2
+
+== 643 ==
+kỳ quan
+po2
+po2
+
+== 644 ==
+sự ấm áp
+po2
+po2
+
+== 645 ==
+trì trệ
+ne2
+ne2
+
+== 646 ==
+gooood
+po2
+po2
+
+== 647 ==
+kêu la
+ne1
+ne1
+
+== 648 ==
+hành xác
+ne1
+ne1
+
+== 649 ==
+tiếng thét
+ne1
+ne1
+
+== 650 ==
+lắc
+ne1
+ne1
+
+== 651 ==
+thực thi
+ne1
+ne1
+
+== 652 ==
+nặng lòng
+ne2
+ne2
+
+== 653 ==
+danken
+po2
+po2
+
+== 654 ==
+xấu xí
+ne2
+ne2
+
+== 655 ==
+trừng phạt
+ne1
+ne1
+
+== 656 ==
+niềm tự hào
+po2
+po2
+
+== 657 ==
+phi thường
+po2
+po2
+
+== 658 ==
+leery
+ne2
+ne2
+
+== 659 ==
+tay sai
+ne2
+ne2
+
+== 660 ==
+bóng tối
+ne1
+ne1
+
+== 661 ==
+nguy nga
+po2
+po2
+
+== 662 ==
+ngon lành
+po2
+po2
+
+== 663 ==
+nhanh nhẹn
+po1
+po1
+
+== 664 ==
+sắc nét
+po1
+po1
+
+== 665 ==
+vực sâu
+ne1
+ne1
+
+== 666 ==
+kết tủa
+ne1
+ne1
+
+== 667 ==
+vị tha
+po2
+po2
+
+== 668 ==
+leo
+ne1
+ne1
+
+== 669 ==
+không còn tồn tại
+ne2
+ne2
+
+== 670 ==
+không duyên dáng
+ne1
+ne1
+
+== 671 ==
+chua
+ne2
+ne2
+
+== 672 ==
+tạp chất
+ne2
+ne2
+
+== 673 ==
+không chú ý
+ne2
+ne2
+
+== 674 ==
+nham hiểm
+ne1
+ne1
+
+== 675 ==
+không thể
+ne1
+ne1
+
+== 676 ==
+roadblocks
+ne1
+ne1
+
+== 677 ==
+bungling
+ne2
+ne2
+
+== 678 ==
+rụt rè
+ne1
+ne1
+
+== 679 ==
+bắt buộc
+ne1
+ne1
+
+== 680 ==
+tuyệt vời
+po1
+po1
+
+== 681 ==
+một cách cuồng nhiệt
+po2
+po2
+
+== 682 ==
+hobble
+ne2
+ne2
+
+== 683 ==
+giống chiến tranh
+ne1
+ne1
+
+== 684 ==
+bôi nhọ
+ne2
+ne2
+
+== 685 ==
+ré lên
+ne1
+ne1
+
+== 686 ==
+quyết liệt
+ne1
+ne1
+
+== 687 ==
+ngoại tình
+ne2
+ne2
+
+== 688 ==
+tuân thủ pháp luật
+po1
+po1
+
+== 689 ==
+vướng mắc
+ne1
+ne1
+
+== 690 ==
+mỉm cười
+po2
+po2
+
+== 691 ==
+không trong sạch
+ne1
+ne1
+
+== 692 ==
+bị ô nhiễm
+ne1
+ne1
+
+== 693 ==
+trung thực
+po1
+po1
+
+== 694 ==
+đá
+ne1
+ne1
+
+== 695 ==
+slut
+ne1
+ne1
+
+== 696 ==
+sử dụng không đúng cách
+ne1
+ne1
+
+== 697 ==
+trả quá mức
+ne1
+ne1
+
+== 698 ==
+không thể cưỡng lại được
+po2
+po2
+
+== 699 ==
+kooky
+ne2
+ne2
+
+== 700 ==
+tiếc nuối
+ne1
+ne1
+

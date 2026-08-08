@@ -1,0 +1,192 @@
+Error sentence: 1. negative ==> positive
+sound[-1] ## If you want good sound , STAYAWAY !!!
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 6. negative ==> positive
+working[-1][v] ## When the SecureSpot free trial finishes , they ask you to buy it and when you do n't , it stops working well .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 39. negative ==> positive
+Netbook[+1], Customer service[-1] ## The Netbook is great and rates 5 stars EXCEPT -- Customer service is useless .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 47. negative ==> positive
+bright[-1][a] ## I find it too bright .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 64. negative ==> positive
+machine[-1], Acer[-1] ## I 'm not very happy with this machine or Acer .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 82. negative ==> positive
+instructions[-1] ## I have been disappointed to find that there is no printed instructions with it , just a crude pictorial instruction of installation , which leaves a great deal of information missing .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 85. negative ==> positive
+signal strength[-1] ## Unfortunately my Verizon 3G signal strength where I live is very weak -LRB- 1-2 bars -RRB- so I could n't get much more than 1 Mbps download speed but I will test this again when I am in a location with decent signal strength .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 86. negative ==> positive
+remote control[-1], reciever[-1] ## The remote control and reciever not so good .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 89. negative ==> positive
+Ethernet transceiver[-1] ## I conclude that the Ethernet transceiver D-Link uses is not as good as that of other brands .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 96. negative ==> positive
+machine[-1], Acer[-1] ## I 'm not very happy with this machine or Acer .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 103. negative ==> positive
+netgear genie tool[-1] ## WITHOUT having to go through the netgear genie tool through the ISP and taking all the extra steps would be far better .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 123. negative ==> positive
+sound[-1] ## If you want good sound , STAY AWAY !!!
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 126. negative ==> positive
+sub woofer[-1] ## - Ported sub woofer not appropriate for this set up .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 127. negative ==> positive
+tone[-1], speakers[-1] ## The first set I received had a loud audible tone coming from the speakers and had to be returned .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 132. negative ==> positive
+viewing angle[-1] ## I agree with the earlier reviewer who said that there is a very limited vertical viewing angle in order to get consistent contrast .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 145. negative ==> positive
+instructions[-1] ## I have been disappointed to find that there is no printed instructions with it , just a crude pictorial instruction of installation , which leaves a great deal of information missing .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 147. negative ==> positive
+look[-1][v] ## They do look cool in the dark though .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 161. negative ==> positive
+remote control[-1], reciever[-1] ## The remote control and reciever not so good .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 162. negative ==> positive
+sound[-1] ## The sound is far from good and there 's a lot of interference mainly when doing any Wifi activity .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 164. negative ==> positive
+internet connection[-1] ## Everything was great until it started dropping internet connection sporadically .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 167. negative ==> positive
+cross-ship[-1][v] ## They offered to replace my controller but -- important to note -- they were unwilling to cross-ship it .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 178. negative ==> positive
+tonal qualities[-1] ## What I do n't like is that at lower volume music listening , tonal qualities are very poor .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 190. negative ==> positive
+firmware upgrade[-1] ## halfway through the firmware upgrade progress bar , the infamous browser `` Page not found '' screen replaced most of the router 's interface .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 193. negative ==> positive
+internet connection[-1] ## Everything was great until it started dropping internet connection sporadically .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 196. negative ==> positive
+instructions[-1] ## I have been disappointed to find that there is no printed instructions with it , just a crude pictorial instruction of installation , which leaves a great deal of information missing .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 223. negative ==> positive
+volume[-1] ## While my laptop and netbook have decent speakers , the volume on such devices is inherently lower than with standard speakers , making it harder to hear some audio .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 226. negative ==> positive
+works[+1][v], performance[-1] ## It works fine but performance is no better than my old SMC G 54mbs .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 232. negative ==> positive
+bright[-1][a] ## In fact others say not bright enough ?
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 233. negative ==> positive
+volume[-1] ## While my laptop and netbook have decent speakers , the volume on such devices is inherently lower than with standard speakers , making it harder to hear some audio .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 241. negative ==> positive
+tonal qualities[-1] ## What I do n't like is that at lower volume music listening , tonal qualities are very poor .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 243. negative ==> positive
+viewing angle[-1] ## I agree with the earlier reviewer who said that there is a very limited vertical viewing angle in order to get consistent contrast .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 246. negative ==> positive
+cross-ship[-1][v] ## They offered to replace my controller but -- important to note -- they were unwilling to cross-ship it .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 249. negative ==> positive
+machine[-1], Acer[-1] ## I 'm not very happy with this machine or Acer .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 252. negative ==> positive
+components[-1] ## - Construction : all components are pretty rugged and seem built to last .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 255. negative ==> positive
+sound[-1] ## The sound is far from good and there 's a lot of interference mainly when doing any Wifi activity .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 256. negative ==> positive
+bright[-1][a] ## In fact others say not bright enough ?
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 266. negative ==> positive
+instructions[-1] ## I have been disappointed to find that there is no printed instructions with it , just a crude pictorial instruction of installation , which leaves a great deal of information missing .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 277. negative ==> positive
+speakers[-1], tone side[-1] ## The only issue i have against the speakers is its a little on the low tone side , but still is very good , and you can set your equalizer to make up for it .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 286. negative ==> positive
+working[-1][v] ## When the SecureSpot free trial finishes , they ask you to buy it and when you do n't , it stops working well .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 290. negative ==> positive
+volume[-1] ## While my laptop and netbook have decent speakers , the volume on such devices is inherently lower than with standard speakers , making it harder to hear some audio .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 291. negative ==> positive
+Acer[-1] ## I was dissapointed that Acer was n't more helpful .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 292. negative ==> positive
+Ethernet transceiver[-1] ## I conclude that the Ethernet transceiver D-Link uses is not as good as that of other brands .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 293. negative ==> positive
+quality of picture[-1], DVI Connection[+1], VGA Connection[-1] ## 3 - Not perfect quality of picture if you use the VGA Connection while the DVI Connection is perfect .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 299. negative ==> positive
+router[-1] ## I 'd tell you myself my experiences but the router waiting to go back to the store so I never got far enough to try this .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 306. negative ==> positive
+cross-ship[-1][v] ## They offered to replace my controller but -- important to note -- they were unwilling to cross-ship it .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 313. negative ==> positive
+screen[-1], picture quality[-1] ## When the screen was n't contracting or glitching the overall picture quality was poor to fair .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 317. negative ==> positive
+controls[-1] ## The controls are hard to see and not intuitive .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
+Error sentence: 362. negative ==> positive
+firmware upgrade[-1] ## halfway through the firmware upgrade progress bar , the infamous browser `` Page not found '' screen replaced most of the router 's interface .
+
+[{'intent': 'negative_1', 'probability': '0.84661084'}]
